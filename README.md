@@ -6,5 +6,5 @@ Public Domain Works by August Emanuel von Reuss (1811-1873).
  
 English - Plain Text  
 English - PDF  
-German - Plain Text  
+[German - Plain Text](bryozoen-deutschen-unteroligocan/full-text-german.md)  
 German - PDF  
