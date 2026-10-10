@@ -112,221 +112,63 @@ Weniger vollkommen, aber immer noch deutlich genug gibt sich die Symmetrie der _
 
 *) Reuss die foss. Polyp. d. Wiener Tertiärbeckens in den von Haidinger gesamm. naturwiss. Abhandl. Bd. 2., pag. 78. Taf. 9, Fig. 7.
 
-Im Unteroligocän von Calbe findet man eine dritte Spezies 
-ziemlich häufig, welcher ich zu Ehren des Herrn Stoliczka, der 
+Im Unteroligocän von Calbe findet man eine dritte Spezies ziemlich häufig, welcher ich zu Ehren des Herrn Stoliczka, der sich um die Kenntniß der Bryozoen von Latdorf verdient gemacht hat, den Namen _B. Stoliczkai_ beilege. Im Jugendzustande ist sie der vorbeschriebenen Spezies sehr ähnlich und unterscheidet sich von ihr hauptsächlich nur durch kleinere eiförmige, am Scheitel oft zur kurzen Röhre verdünnte Zellen. Sie stehen in zahlreicheren und zugleich meistens in weniger regelmäßigen schrägen Radialreihen. Auch wird durch ihre ungleiche Größe die Symmetrie der Anordnung häufiger und in höherem Grade gestört. Unter der rundlichen scharfrandigen Mündung steht bisweilen eine kleine Nebenpore. Auch hier berühren sich die Zellen im Zentrum nicht unmittelbar und die Lücke wird durch kleine geschlossene Abortivzellen ausgefüllt. Die jüngeren Zellen nehmen ebenfalls eine weniger geneigte Stellung an, bis sie endlich horizontal werden. Aber damit ist nicht in allen Fällen der Entwickelungsgang abgeschlossen. Das Aussprossen der Zellen dauert fort; dieselben neigen sich allmälig mehr nach abwärts, bis sich endlich rings um das Zentrum Zellen gebildet haben und die Kolonie zuletzt zu einer kleinen, auf allen Seiten von Zellen besetzten Kugel geworden ist. Im weiteren Verlaufe scheinen selbst noch zwischen den schon früher entstandenen Zellen hin und wieder neue stets klein bleibende hervorzusprießen, wodurch die Ungleichheit der Zellen gesteigert und zugleich die Größe der kugeligen Kolonien noch etwas vermehrt wird.
 
+Die Oberfläche der Zellenwandung zeigt sich, wie bei _B. rosula_, mit feinen Rauhigkeiten dicht besetzt.
 
-sich um die Keimtniß der Bryozoen von Latdorf verdient gemacht 
-hat, den Namen B. Stoliczkai beilege. Im Jugendzustande ist sie 
-der vorbcscliriebciieii Species sein* ähnlich und unterscheidet sich 
-von ihr hauptsächlich nur durch kleinere eiförmige, am Scheitel oft 
-zur kurzen Röhre verdünnte Zellen. Sie stehen in zahlreicheren und 
-zugleich meistens in weniger regelmäßigen schrägen Radialreihen. 
-Auch wird durch ihre ungleiche Größe die Symmetrie der Anord¬ 
-nung häufiger und in höherem Grade gestört. Unter der rundlichen 
-scharfrandigcn Mündung steht bisweilen eine kleine Nebenpore. 
-Auch liier berühren sich die Zellen im Centrum nicht unmittelbar 
-und die Lücke wird durch kleine geschlossene Abortivzellen ausge- 
-füllt. Die jüngeren Zellen nehmen ebenfalls eine weniger geneigte 
-Stellung an, bis sie endlich horizontal werden. Aber damit ist nicht 
-in allen Fällen der Entwickelungsgang abgeschlossen. Das Aus¬ 
-sprossen der Zellen dauert fort; dieselben neigen sich allmälig mehr 
-nach abwärts, bis sich endlich rings um das Centrum Zellen gebil¬ 
-det haben und die Colonie zuletzt zu einer kleinen, auf allen Seiten 
-von Zellen besetzten Kugel geworden ist. Im weiteren Verlaufe 
-scheinen selbst noch zwischen den schon früher entstandenen Zellen 
-hin und wieder neue stets klein bleibende hervorzusprießen, wodurch 
-die Ungleichheit der Zellen gesteigert und zugleich die Größe der 
-kugeligen Colonien noch etwas vermehrt wird. 
+Die von Stoliczka aus Latdorf angeführten und der _Cellepora globularis_ Br. beigezählten kleinen Kugeln, deren Durchmesser 3 Millim. nicht übersteigt, dürften vielleicht ebenfalls hierher gehören. Wenigstens zeigen die jüngeren derselben eine mit _Batopora_ ganz analoge Anordnung der Zellen.
 
-Die Oberfläche der Zellenwandung zeigt sich, wie bei B.rosula, 
-mit feinen Rauhigkeiten dicht besetzt. 
+# _b._ Escharideae.
 
-Die von Stoliczka aus Latdorf angeführten und der Celle - 
-pora globularis Br. beigezählten kleinen Kugeln, deren Durchmes¬ 
-ser 3 Millim. nicht übersteigt, dürften vielleicht ebenfalls hierher 
-gehören. Wenigstens zeigen die jüngeren derselben eine mit Bato- 
-pora ganz analoge Anordnung der Zellen. 
+## 4. Polyeschara confusa.
 
-b) Escharicleae. 
+Rss. n. gen. et sp. (Taf. 3, Fig. 1-4).
 
-4. Polyeschara confusa Rss. n. gen. et sp. (Taf. 3, Fig. 1---4). 
+In der mir von Herrn v. Könen mitgeteilten Probe der von ihm bei Bünde zuerst aufgefundenen und dem Unteroligocän angehörigen Schichten fand ich unter anderen einzelne Bruchstücke einer Bryozoe, welche bei flüchtiger Betrachtung leicht für eine _Eschara_ gehalten werden könnte. Eine genaue Untersuchung zeigt jedoch, daß sie dieser Gattung, wie sie jetzt allgemein begrenzt wird, nicht angehören könne, indem sie sich in der Anordnung ihrer Zellen wesentlich davon unterscheidet. Man hat es nämlich nicht hlos mit zwei Zellenschichten zu tun, welche mit der Rückenfläche gegen einander gekehrt und mit einander verwachsen sind, sondern mit einer größeren Zahl sich deckender Zellenlagen. Der ursprünglich gebildete Teil der bandartig zusammengedrückten, gabelig ästigen Stämmchen stimmt im Baue vollkommen mit einer einfachen _Eschara_ überein. Bei fortschreitender Bildung legt sich aber über jede der beiden Zellschichten eine neue Schichte von Zellen, so daß jedes Stämmchen zuletzt aus vier Zellenschichten besteht, deren je zwei gleichartig gegen eine Seite gekehrt sind (Fig. 1 _c_). Bisweilen scheint es sogar zur Bildung dreier aufgelagerter Zellenschichten zu kommen. Wenigstens ist dies an einzelnen Stellen der vorliegenden Bruchstücke deutlich zu erkennen (Fig. 3).
 
-In der mir von Herrn v. Könen mitgetheilten Probe der von 
-ihm bei Bünde zuerst aufgefundenen und dem Unteroligocän angehö- 
-rigen Schichten fand ich unter anderen einzelne Bruchstücke einer 
-Bryozoe, welche bei flüchtiger Betrachtung leicht für eine Eschara 
-gehalten werden könnte. Eine genaue Untersuchung zeigt jedoch, 
-daß sie dieser Gattung, wie sie jetzt allgemein begrenzt wird, nicht 
+In diesen Verhältnissen kömmt unser Fossil mit der von Orbigny aufgestellten und beschriebenen Gattung _Disteginopora_* überein. Im feineren Bau findet jedoch ein sehr wesentlicher Unterschied Statt. Die Orbigny'sche Gattung bietet Strukturverhältnisse dar, die man bei keiner anderen Bryozoe wiederfindet, und die noch weiterer Bestätigung zu bedürfen scheinen. Nach Orbignys Angabe soll sich nämlich über den inneren, ganz nach Art der Escharen gebildeten Teil jederseits eine zweite Etage aufbauen, die äußerlich zwar auch eine Begrenzung einzelner Zellen wahrnehmen läßt, im Inneren jedoch einer solchen Trennung in abgesonderte Zellen ermangelt, daher einen ununterbrochenen freien Raum darbietet, dessen Decke nur durch die sich röhrenförmig verlängernden Mündungen und Avicularporen der unteren Zellenschichte gleich wie von Pfeilern getragen wird.
 
-angehören könne, indem sie sich in der Anordnung ihrer Zellen 
-wesentlich davon unterscheidet. Man hat es nämlich nicht hlos mit 
-zwei Zellenscliichten zu thun, welche mit der Rückenfläche gegen 
-einander gekehrt und mit einander verwachsen sind, sondern mit 
-einer größeren Zahl sich deckender Zellenlagen. Der ursprünglich 
-gebildete Theil der bandartig zusammengedrückten, gabelig ästigen 
-Stämmchen stimmt im Baue vollkommen mit einer einfachen 
-Eschara überein. Bei fortschreitender Bildung legt sich aber über 
-jede der beiden Zellschichten eine neue Schichte von Zellen, so daß 
-jedes Stämmchen zuletzt aus vier Zellenscliichten besteht, deren je 
-zwei gleichartig gegen eine Seite gekehrt sind (Fig. 1 c). Bisweilen 
-scheint es sogar zur Bildung dreier aufgelagerter Zellenscliichten zu 
-kommen. Wenigstens ist dies an einzelnen Stellen der vorliegenden 
-Bruchstücke deutlich zu erkennen (Fig. 3). 
+Sehr abweichend sind die Verhältnisse an dem Fossile von Bünde. Hier ist auch die zweite äußere Lage durch Wandungen in Zellen ahgeteilt und stellt daher eine vollkommene Zellenschichte dar. Faßt man die Beziehungen der auf einander liegenden Zellenschichten etwas genauer in das Auge, so überzeugt man sich, daß die Zellen beider an vielen Stellen einander entsprechen, daher in senkrechter Richtung über einander liegen. In diesem Falle bildet die gewöhnlich verdickte Vorderwand der unteren Zellen die Hinterwand der darüber liegenden. Beide communiziren ursprünglich durch die Mündungen der unteren Zellen; aber später scheinen sich diese meistenteils zu verschließen (Fig. 4) und die Kommunikation findet nur durch die feinen Porenkanäle Statt, welche die Zellenwandungen durchziehen. Vielleicht sterben aber auch die die tiefere Zellenetage bewohnenden Tiere ab, wie wir dies an den ältesten Teilen der echten Escharen-Stämme beobachten, an welchen die Mündungen ebenfalls obliteriren, oder sie ziehen sich doch aus denselben in die neugebildete höhere Etage zurück.
 
-In diesen Verhältnissen kömmt unser Fossil mit der von Or- 
-bigny aufgestellten und beschriebenen Gattung Disteginopora *) 
-überein. Im feineren Bau findet jedoch ein sehr wesentlicher Unter¬ 
-schied Statt. Die Orbigny'sche Gattung bietet Structurverhältnisse 
-dar, die man hei keiner anderen Bryozoe wiederfindet, und die noch 
-weiterer Bestätigung zu bedürfen scheinen. Nach Orbigny's An¬ 
-gabe soll sich nämlich über den inneren, ganz nach Art der 
-Escharen gebildeten Theil jederseits eine zweite Etage aufbauen, 
-die äußerlich zwar auch eine Begrenzung einzelner Zellen wahrneh¬ 
-men läßt, im Inneren jedoch einer solchen Trennung in abgeson¬ 
-derte Zellen ermangelt, daher einen ununterbrochenen freien Raum 
-darbietet, dessen Decke nur durch die sich röhrenförmig verlängern¬ 
-den Mündungen und Avicularporen der unteren Zellenschichte gleich 
-wie von Pfeilern getragen wird. 
+*) Paleontol. franç. Terr. cretac. 5. pag. 497. Taf. 734, Fig. 9-11.
 
-Sehr abweichend sind die Verhältnisse an dem Fossile von 
-Bünde. Hier ist auch die zweite äußere Lage durch Wandungen in 
-Zellen ahgetheilt und stellt daher eine vollkommene Zellenschichte 
-dar. Faßt man die Beziehungen der auf einander liegenden Zellen¬ 
-schichten etwas genauer in das Auge, so überzeugt man sich, daß 
-die Zellen beider an vielen Stellen einander entsprechen, daher in 
-senkrechter Richtung über einander liegen. In diesem Falle bildet 
-die gewöhnlich verdickte Vorderwand der unteren Zellen die Ilinter- 
+An anderen Stellen liegen jedoch die Zellen der oberen Schichte nicht unmittelbar über jenen der unteren; es findet zwischen beiden keine Übereinstimmung Statt, indem die ersteren sehr unregelmäßig werden, und beide stehen sodann nur durch die vorhandenen Porenkanäle mit einander in Verbindung.
 
+Das Fossil von Bünde repräsentirt daher einen Typus, der jedenfalls von dem einfachen Escharen-Typus beträchtlich abweicht und sich zu _Eschara_ gerade so verhält, wie _Cumulipora_ v. M.* zu _Lepralia_ Johnst. So lange man diese von einander gesondert hält, wird man auch das in Rede stehende Petrefact von _Eschara_ generisch trennen müssen. Doch auch im gegenteiligen Falle wird man es stets zum Typus einer besonderen Gruppe innerhalb der Gattung _Eschara_ zu machen genötigt sein. Die mehrschichtigen Escharen werden immer einen auffallenden Gegensatz bilden zu den einfachen Escharen, die stets zweischichtig bleiben und bei denen es auch im Alter nie zur Bildung zahlreicherer Überlagerungsschichten kömmt. Ich belege diese Abteilung, mag man sie aus dem einen oder dem anderen Gesichtspunkte betrachten, mit dem Namen "_Polyeschara_."
 
-A ) Paleontol. fran<?. Terr. cretac. V. pag. 497. Taf. 734, Fig. 9---11. 
-Sitzb. <3. mathem.-naturw. CI. LV. Bd. I. Abth. 16 
+Die unteroligocäne Spezies bildet gabelförmig-ästige Stämmchen mit breiten zusammengedrückten Zweigen, die, in der Mitte am dicksten, gegen die abgerundet-winkeligen Ränder hin sich etwas verdünnen. Der größte Teil derselben besteht, wie der Querschnitt lehrt, auf jeder Seite aus zwei Zellenschichten, deren Zwischenwände an den älteren Stammteilen sehr verdickt erscheinen, an den jüngeren dagegen die Medianplatte an Dicke nicht übertreffen. An den ältesten Teilen der Stämmchen beobachtet man sogar drei sich deckende Zellenschichten, jedoch pflegt die äußerste zunächst den Rändern zu fehlen.
 
+*) Reuss zur Fauna des deutschen Oberoligocäns in d. Sitzungsber. d. kais. Akad. d. Wissensch. Bd. 50, pag. 29.
 
-wand der darüber liegenden. Beide communiciren ursprünglich 
-durch die Mündungen der unteren Zellen; aber spater scheinen sich 
-diese meistenteils zu verschließen (Fig. 4) und die Communication 
-findet nur durch die feinen Porencanäle Statt, welche die Zellen¬ 
-wandungen durchziehen. Vielleicht sterben aber auch die die tiefere 
-Zellenetage bewohnenden Tliiere ah, wie wir dies an den ältesten 
-Theilen der echten Escharen-Stämme beobachten, an welchen die 
-Mündungen ebenfalls obliteriren, oder sie ziehen sich doch aus den¬ 
-selben in die neugebildete höhere Etage zurück. 
+In Beziehung auf das Wechselverhältniß der einzelnen Schichten gegen einander ist das Nötige schon bei der Characterisirung der Gattung erörtert worden.
 
-An anderen Stellen liegen jedoch die Zellen der oberen Schichte 
-nicht unmittelbar über jenen der unteren; es findet zwischen beiden 
-keine Übereinstimmung Statt, indem die ersteren sehr unregelmäßig 
-werden, und beide stehen sodann nur durch die vorhandenen Poren¬ 
-canäle mit einander in Verbindung. 
+Die Zellen der äußeren Schichten zeigen beinahe durchgehends in Betreff ihrer Größe, Gestalt und Anordnung die größte Unregelmäßigkeit (Fig. 1, b). Immer sind sie sehr wenig gewölbt und durch seichte Furchen von einander abgegrenzt. An den ältesten Partien der Stämmchen fehlt diese Begrenzung beinahe gänzlich. Auch die Mündung wechselt ausnehmend an Grösse und Form; gewöhnlich ist sie rundlich oder auf der Unterseite mehr weniger abgestutzt und wird von einem kaum erhabenen Rande eingefaßt. Längs des Zellenrandes beobachtet man eine einfache Reihe entfernt stehender einfacher Poren. Dergleichen stehen vereinzelt gewöhnlich auch auf dem Mündungsrande.
 
-Das Fossil von Bünde repräsentirt daher einen Typus, der 
-jedenfalls von dem einfachen Escharen-Typus beträchtlich abweicht 
-und sich zu Eschara gerade so verhält, wie Cumulipora v. M. i) zu 
-Lepralia Jo linst. So lange man diese von einander gesondert hält, 
-wird man auch das in Rede stehende Petrefact von Eschara gene¬ 
-risch trennen müssen. Doch auch im gegentheiligen Falle wird man 
-es stets zum Typus einer besonderen Gruppe innerhalb der Gattung 
-Eschara zu machen genöthigt sein. Die mehrschichtigen Escharen 
-werden immer einen auffallenden Gegensatz bilden zu den einfachen 
-Escharen, die stets zweischichtig bleiben und bei denen es auch 
-im Alter nie zur Bildung zahlreicherer Überlagerungsschichten 
-kömmt. Ich belege diese Abtheilung, mag man sie aus dem einen 
-oder dem anderen Gesichtspunkte betrachten, mit demNamen„PoZ?/- 
-eschara“. 
+An den jüngsten Zweigen besitzen die regelmäßiger gestalteten Zellen einen verkehrt-eiförmigen oder ungleich-hexagonalen Umriß.
 
-Die unteroligocäne Species bildet gabelförmig-ästige Stämm- 
-chen mit breiten zusammengedrückten Zweigen, die, in der Mitte am 
-dicksten, gegen die abgerundet-winkeligen Ränder hin sich etwas 
-verdünnen. Der größte Theil derselben besteht, wie der Querschnitt 
-lehrt, auf jeder Seite aus zwei Zellenschichten, deren Zwischen¬ 
-wände an den älteren Stammtheilen sehr verdickt erscheinen, an den 
-jüngeren dagegen die Medianplatte an Dicke nicht übertreffen. An 
+Wo die Wandungen der äußeren Zellenschichte zerstört sind, bilden die vorragenden dünnen Seitenwände ein meist sehr regelloses Netzwerk. Zugleich ist aber dann die Vorderwand der tieferen Zellenschichte blosgelegt und man überzeugt sich, daß an den meisten Zellen die Mündung ganz verschlossen oder zu einer feinen Pore zusammengeschrumpft ist (Fig. 4). Die Kommunikation mit den äußeren Zellen wird dann nur durch die unverändert gebliebenen Randporen vermittelt.
 
+Die Spezies ist im Unteroligocän von Bünde nicht selten.
 
-Reuss zur Fauna des deutschen Oberoligocäns in d. Sitzungsber. d. kais. Akad. 
-d. Wissensch. Bd. 50, pag. 29. 
+# _c._ Selenariadeae.
 
+## 5. Pavolunulites Buski
 
-den ältesten Theilen der Stämmchen beobachtet man sogar drei sich 
-deckende Zellenschichten, jedoch pflegt die äußerste zunächst den 
-Rändern zu fehlen. 
+Rss. n. sp. (Taf. 1, Fig. 6).
 
-In Beziehung auf das Wechselverhältniß der einzelnen Schich¬ 
-ten gegen einander ist das Nöthige schon bei der Characterisirung 
-der Gattung erörtert worden. 
+Bei Calbe kommen sehr seltene Bruchstücke einer Bryozoe vor, die in allen generischen Merkmalen mit _Pavolunulites_ d'Orb.* übereinstimmt.
 
-Die Zellen der äußeren Schichten zeigen beinahe durchgehends 
-in Betreff ihrer Größe, Gestalt und Anordnung die größte Unregel¬ 
-mäßigkeit (Fig. 1, b). Immer sind sie sehr wenig gewölbt und 
-durch seichte Furchen von einander abgegrenzt. An den ältesten 
-Partien der Stämmchen fehlt diese Begrenzung beinahe gänzlich. Auch 
-die Mündung wechselt ausnehmend an Grösse und Form; gewöhnlich 
-ist sie rundlich oder auf der Unterseite mehr weniger abgestutzt und 
-wird von einem kaum erhabenen Rande eingefaßt. Längs des Zellen¬ 
-randes beobachtet man eine einfache Reihe entfernt stehender ein¬ 
-facher Poren. Dergleichen stehen vereinzelt gewöhnlich auch auf 
-dem Mündungsrande. 
+Über die Form der sehr dünnen blattförmigen Kolonie läßt sich keine bestimmte Auskunft geben, da nur wenige Bruchstücke vorliegen. Dieselben sind unregelmäßig vierseitig mit mehr weniger abgerundeten äußeren Ecken. Es scheint das innere Ende, von welchem die wenig regelmäßigen divergirenden Zellenreihen ausstrahlen und das daher die laterale Embryonalzelle enthielt, abgebrochen zu sein und das ganze Gerüste rundlich oder etwas fächerförmig gewesen zu sein.
 
-An den jüngsten Zweigen besitzen die regelmäßiger gestalteten 
-Zellen einen verkehrt-eiförmigen oder ungleich-hexagonalen Umriß. 
+*) d'Orbigny paléontologie franç. Terr. cret. 5. pag. 358. Taf 706, Fig. 5-11.
 
-Wo die Wandungen der äußeren Zellenschichte zerstört sind, 
-bilden die vorragenden dünnen Seitenwände ein meist sehr regelloses 
-Netzwerk. Zugleich ist aber dann die Vorderwand der tieferen 
-Zellenschichte biosgelegt und man überzeugt sich, daß an den mei¬ 
-sten Zellen die Mündung ganz verschlossen oder zu einer feinen Pore 
-zusammengeschrumpft ist (Fig. 4). Die Communication mit den 
-äußeren Zellen wird dann nur durch die unverändert gebliebenen 
-Randporen vermittelt. 
+Die Zellen sind eiförmig-vier- oder fünfseitig, indem ihr Vorderrand gerundet, bogenförmig ist, das hintere Ende aber nach beiden Seiten schräg abgeschnitten, daher keilförmig erscheint. Die Zellendecke ist niedergedrückt und steigt gegen die Ränder, welche als scharfe Kanten vorragen, etwas an. Die Mündung liegt hart am vorderen Ende und ist meistens halbrund-vierseitig, hinten abgestutzt, an beiden Seiten hörnerartig nach hinten verlängert, so daß der Hinterrand meistens als ein breiter Zahn in die Mündung vorspringt. Die Oberfläche der Zellendecke ist fein gekörnt.
 
-Die Species ist im Unteroligocän von Bünde nicht selten. 
+Zwischen den beschriebenen regelmäßigen Zellen sind hin und wieder ohne Ordnung viel kleinere unregelmäßig polygonale, ebenso niedergedrückte Zellen eingestreut, deren Oberfläche zum größten Teile von der halbrunden, hinten abgestutzten oder auch beinahe rundlichen Mündung eingenommen wird. Gewöhnlich beginnt jede neue eingeschobene Reihe mit einer solchen kleinen abnormen Zelle.
 
-c) Selenariatleae. 
+Die flache Rückenseite der Kolonie wird von seichten und schmalen unregelmäßig ausstrahlenden entfernten Furchen durchzogen, deren breite kaum gewölbte Zwischenräume ebenfalls gekörnt sind. Sie entsprechen den unregelmäßigen Zellenreihen.
 
-5. Pavolunulites Buski Rss. n. sp. (Taf. 1, Fig. 6). 
-
-Bei Calbe kommen sehr seltene Bruchstücke einer Bryozoe vor, 
-die in allen generischen Merkmalen mit Pavolunulites d'Orb. *) über¬ 
-einstimmt. 
-
-Über die Form der sehr dünnen blattförmigen Colonie läßt sich 
-keine bestimmte Auskunft geben, da nur wenige Bruchstücke vor- 
-
-
-1 ) d'Orbigny paleontologie fran<?. Terr. cret. V. pag. 358. Taf 70G, Fig“. 5---11. 
-
-liegen. Dieselben sind unregelmäßig vierseitig mit mehr weniger 
-abgerundeten äußeren Ecken. Es scheint das innere Ende, von 
-welchem die wenig regelmäßigen divergirenden Zellenreilien aus¬ 
-strahlen und das daher die laterale Embryonalzelle enthielt, abge¬ 
-brochen zu sein und das ganze Gerüste rundlich oder etwas fächer¬ 
-förmig gewesen zu sein. 
-
-Die Zellen sind eiförmig-vier- oder fünfseitig, indem ihr Vorder¬ 
-rand gerundet, bogenförmig ist, das hintere Ende aber nach beiden 
-Seiten schräg abgeschnitten, daher keilförmig erscheint. Die Zellen¬ 
-decke ist niedergedrückt und steigt gegen die Ränder, welche als 
-scharfe Kanten vorragen, etwas an. Die Mündung liegt hart am vor¬ 
-deren Ende und ist meistens halbrund-vierseitig, hinten abgestutzt, 
-an beiden Seiten hörnerartig nach hinten verlängert, so daß der Hinter¬ 
-rand meistens als ein breiter Zahn in die Mündung vorspringt. Die 
-Oberfläche der Zellendecke ist fein gekörnt. 
-
-Zwischen den beschriebenen regelmäßigen Zellen sind hin und 
-wieder ohne Ordnung viel kleinere unregelmäßig polygonale, ebenso 
-niedergedrückte Zellen eingestreut, deren Oberfläche zum größten 
-Theile von der halbrunden, hinten abgestutzten oder auch beinahe 
-rundlichen Mündung eingenommen wird. Gewöhnlich beginnt jede 
-neue eingeschobene Reihe mit einer solchen kleinen abnormen Zelle. 
-
-Die flache Rückenseite der Colonie wird von seichten und schma¬ 
-len unregelmäßig ausstrahlenden entfernten Furchen durchzogen, 
-deren breite kaum gewölbte Zwischenräume ebenfalls gekörnt sind. 
-Sie entsprechen den unregelmäßigen Zellenreihen. 
-
-Auf dem Querbruche beobachtet man, daß die einzelnen Zellen 
-mit jeder nach außen gelegenen jüngeren Nachbarzelle durch einen 
-ziemlich weiten Sprossenkanal zusammenhängt. 
+Auf dem Querbruche beobachtet man, daß die einzelnen Zellen mit jeder nach außen gelegenen jüngeren Nachbarzelle durch einen ziemlich weiten Sprossenkanal zusammenhängt.
 
 Die Species hat große Ähnlichkeit mit Hemiesclicira (Semie - 
 sclutra d'Orb.) und ich würde sie damit vereinigt haben, wenn nicht 
