@@ -42,191 +42,55 @@ Die Embryonalzelle und die sie zunächst umgebenden Zellen sind die kleinsten. G
 
 Beide Zellenschichten sind nicht, wie bei _Eschara_, durch eine undurchbohrte Mittelplatte von einander geschieden. Auch bemerkt man an einem Querbruche der Scheibe, daß die Grenzfläche der beiden Zellenschichten nicht eben ist, sondern daß die Zellen der einen in die Vertiefungen der anderen eingreifen.
 
-Die Mündung der meisten Zellen ist groß, beinahe rund; bei 
-den verlängerten peripherischen Zellen dehnt sie sich jedoch etwas 
-in die Quere aus, wobei sich oft auch ihr scharfer Rand etwas 
-erhöht. Dagegen verengert sich die Mündung der ältesten Zellen 
-oftmals und verschliesst sich bisweilen im Laufe der Zeit gänzlich. 
-Die Oberfläche der Zellenwand ist mit gedrängten zarten Rauhig¬ 
-keiten bedeckt und in den Zwischenfurchen der Zellen stehen verein¬ 
-zelte kleine Poren. 
+Die Mündung der meisten Zellen ist groß, beinahe rund; bei den verlängerten peripherischen Zellen dehnt sie sich jedoch etwas in die Quere aus, wobei sich oft auch ihr scharfer Rand etwas erhöht. Dagegen verengert sich die Mündung der ältesten Zellen oftmals und verschliesst sich bisweilen im Laufe der Zeit gänzlich. Die Oberfläche der Zellenwand ist mit gedrängten zarten Rauhigkeiten bedeckt und in den Zwischenfurchen der Zellen stehen vereinzelte kleine Poren.
 
-An den peripherischen Zellen und zwar auf ihrer centripetalen 
-Seite beobachtet man mitunter halbkugelige Ovicellarien mit eben¬ 
-falls gekörnter Oberfläche, die, von oben angesehen, den innersten 
-Tlieil der Mündung verdecken. Oft findet man ihre Oberwand durch¬ 
-gebrochen, und dann haben sie eine große rundliche Höhlung hin¬ 
-terlassen, deren Boden durch die Zellenwand gebildet wird. Es sind 
-dies die blasigen Nebenzellen, welche S toliczka erwähnt. Schon 
-L o n s d a 1 e hat ihre Bestimmung richtig gedeutet. 
+An den peripherischen Zellen und zwar auf ihrer zentripetalen Seite beobachtet man mitunter halbkugelige Ovizellarien mit ebenfalls gekörnter Oberfläche, die, von oben angesehen, den innersten Teil der Mündung verdecken. Oft findet man ihre Oberwand durchgebrochen, und dann haben sie eine große rundliche Höhlung hinterlassen, deren Boden durch die Zellenwand gebildet wird. Es sind dies die blasigen Nebenzellen, welche Stoliczka erwähnt. Schon Lonsdale hat ihre Bestimmung richtig gedeutet.
 
-2. Stickoporina Rcussi Stol. (Tal. 1, Fig. 3---5). 
+## 2. Stichoporina Reussi
 
-Stoliczka 1. c. pag. 92, 93. Taf. 3 y Fig. 6. 
+Stol. (Tal. 1, Fig. 3-5).
 
-Die Exemplare von Calbe kommen in der Physiognomie und im 
-Baue vollkommen mit jenen von Latdorf überein, nur daß sie etwas 
+Stoliczka l. c. pag. 92, 93. Taf. 3, Fig. 6.
 
-kleiner sind, indem sie höchstens einen Durchmesser von 3 Millim. 
-erreichen: Stoliczka hat ihre Ähnlichkeit mit Lunulites undiSW- 
-clwpora erkannt und ihr Ausdruck verliehen, dieselbe aber offenbar 
-überschätzt, indem er Stichoporina selbst zu der Familie der Sele- 
-nariadeen in die Nähe von Stichopora versetzte. Er hat die Latdorfer 
-Formen nur deßhalb von Stichopora (clypeata) v. Hag. geson¬ 
-dert, weil llagenow in seiner Cliaracteristik dieser Gattung beson¬ 
-ders das Vorhandensein von Neben- und Spaltzellen, so wie das 
-Wachsthum der Zellen in regelmäßigen Reihen nur nach einer 
-bestimmten Richtung hin betont, --- Merkmale, die sich an dem Lat¬ 
-dorfer Fossile auf keine Weise erkennen lassen. Die Hageno wa¬ 
-sche Diagnose paßt aber selbst auf St. clypeata v. Hag. keineswegs, 
-denn wir finden weder in der Reschreibung, noch in der Abbildung, 
-welche Hagenow von dieser Species liefert 1 ), die geringste An¬ 
-deutung von Spalt- oder Nebenzellen. Auch das zweite Kennzeichen, 
-auf welches doch ein besonderes Gewicht gelegt wird, kann auf St. 
-clypeata keine Anwendung finden. Es faßt Hageno w überhaupt, 
-wie schon Orbigny hervorhebt, in seiner Gattung Stichopora 
-sehr differente, auf keinen Fall zusammengehörende Körper zusam¬ 
-men. St. pentasticha v. Hag. 2 3 ) von Rügen zeigt ein regelmässiges 
-Abwechseln der Zellen, kann aber eben so wenig, als St. Richten 
-v. Hag. s) und St. tetragona v. Hag. 4 ), mit St. clypeata in dersel¬ 
-ben Gattung vereinigt werden. Sie gehören überhaupt gar nicht in 
-die Gruppe der Selenariadeen, sondern kommen in die Nähe von 
-Filiflustrella und Filiflnstrellaria d’Orb. zu stehen. Ganz anders 
-verhält sich die Sache bei St. clypeata. Während bei den früher 
-genannten Arten das Wachsthum in alternirenden Längsreihen, also 
-in linearer Richtung vor sich geht, könnte es doch in dem Falle, 
-daß dieses Gesetz auch für St. clypeata Geltung haben sollte, nie 
-zur Rildung einer kreisförmigen Colonie kommen. Man überzeugt 
-sich aber auch leicht, daß von einer centralen Primordialzelle nach 
-allen Seiten hin neue Zellen aussprossen und sich in mehr weniger 
-deutlich nachweisbaren Kreis- und Radialreihen an einander legen. 
+Die Exemplare von Calbe kommen in der Physiognomie und im Baue vollkommen mit jenen von Latdorf überein, nur daß sie etwas kleiner sind, indem sie höchstens einen Durchmesser von 3 Millim. erreichen; Stoliczka hat ihre Ähnlichkeit mit _Lunulites_ und _Stichopora_ erkannt und ihr Ausdruck verliehen, dieselbe aber offenbar überschätzt, indem er _Stichoporina_ selbst zu der Familie der Selenariadeen in die Nähe von _Stichopora_ versetzte. Er hat die Latdorfer Formen nur deßhalb von _Stichopora (clypeata)_ v. Hag. gesondert, weil Hagenow in seiner Characteristik dieser Gattung besonders das Vorhandensein von Neben- und Spaltzellen, so wie das Wachsthum der Zellen in regelmäßigen Reihen nur nach einer bestimmten Richtung hin betont, --- Merkmale, die sich an dem Latdorfer Fossile auf keine Weise erkennen lassen. Die Hagenow'sche Diagnose paßt aber selbst auf _St. clypeata_ v. Hag. keineswegs, denn wir finden weder in der Beschreibung, noch in der Abbildung, welche Hagenow von dieser Spezies liefert,* die geringste Andeutung von Spalt- oder Nebenzellen. Auch das zweite Kennzeichen, auf welches doch ein besonderes Gewicht gelegt wird, kann auf _St. clypeata_ keine Anwendung finden. Es faßt Hagenow überhaupt, wie schon Orbigny hervorhebt, in seiner Gattung _Stichopora_ sehr differente, auf keinen Fall zusammengehörende Körper zusammen. _St. pentasticha_ v. Hag.* von Rügen zeigt ein regelmässiges Abwechseln der Zellen, kann aber eben so wenig, als _St. Richteri_ v. Hag.* und _St. tetragona_ v. Hag.,* mit _St. clypeata_ in derselben Gattung vereinigt werden. Sie gehören überhaupt gar nicht in die Gruppe der Selenariadeen, sondern kommen in die Nähe von _Filiflustrella_ und _Filiflustrellaria_ d'Orb. zu stehen. Ganz anders verhält sich die Sache bei _St. clypeata_. Während bei den früher genannten Arten das Wachsthum in alternirenden Längsreihen, also in linearer Richtung vor sich geht, könnte es doch in dem Falle, daß dieses Gesetz auch für _St. clypeata_ Geltung haben sollte, nie zur Bildung einer kreisförmigen Kolonie kommen. Man überzeugt sich aber auch leicht, daß von einer zentralen Primordialzelle nach allen Seiten hin neue Zellen aussprossen und sich in mehr weniger deutlich nachweisbaren Kreis- und Radialreihen an einander legen. Dasselbe Verhältniß bildet auch Orbigny an den von ihm untersuchten französischen Exemplaren ab.* Von Neben- und Spaltzellen ist auch hier keine Spur vorhanden.
 
+*) v. Hagenow die Bryozoen von Maastricht pag. 100, Taf. 12, Fig. 14.
 
-1) v. [Tagen ow die Bryozoen von Maastricht pag. 100, Taf. 12, Fig. 14. 
+*) Leonhards u. Bronns Jahrb. 1839. pag. 280. Taf. 5, Fig. 3.
 
-2 ) Leonhard’s u. Bronn’s Jahrb. 1839. pag. 280. Taf. 5, Fig. 3. 
+*) Geinitz, Grundriß der Versteinerungskunde pag. 622. Taf. 23, _b_, Fig. 47.
 
-3 ) Geinitz, Grundriß der Versteinerungskunde pag. 622. Taf. 23, &, Fig. 47. 
+*) l. c. pag. 622.
 
-4 ) J. c. pag. 622. 
+Da nun gerade _St. clypeata_ v. Hag. als der Typus der Gattung _Stichopora_ angesehen werden muß, wie es auch von Busk* geschieht, so stellt diese nichts als Lunuliten ohne gesonderte Vibracularzellen dar. Wir folgen derselben Anschauungsweise.
 
-Dasselbe Verhältniß bildet auch Orbigny an den von ihm unter¬ 
-suchten französischen Exemplaren ab *)• Von Neben- und Spaltzellen 
-ist auch hier keine Spur vorhanden. 
+Wollte man sich auf die bisher erörterten Charactere beschränken, welche sich auch bei _Stichoporina_ wiederfinden, so würde man genötigt sein, diese mit _Stichopora_ unbedingt zu identifiziren. Dieser Vorgang würde aber nicht gerechtfertigt erscheinen, da zwischen beiden Gattungen in anderer Beziehung wesentliche Unterschiede stattfinden und zwar in der Beschaffenheit der Zellen. Während dieselben bei _St. clypeata_ Hag. und der hochkonischen _St. conica_ d'Orb. aus der Kreide von S. Colombe,* gleichwie bei den _Lunulites-_ und _Cupularia-_ Arten, hexagonal, niedergedrückt, von einem gemeinschaftlichen erhabenen Rande umgrenzt sind, finden wir an den Stichoporinen _Cellepora-_ artige Zellen, in der Mitte der Scheibe senkrecht stehend, am Rande halb liegend, gewölbt, eiförmig oder selbst etwas röhrig, durch tiefe Furchen von einander gesondert, mit terminaler rundlicher Mündung. Darin kömmt _Stichoporina_ mit _Celleporaria_ überein, von welcher sie daher nur in der Anordnung der Zellen abweicht. Sie steht daher in demselben Verhältnisse zu _Celleporaria_, wie die gleich näher zu besprechende Sippe _Batopora_, bei welcher die Zellen nicht zu einer kreisförmigen Scheibe ausgebreitet, sondern zu einer kegelförmigen oder kreiselförmigen Gruppe zusammengehäuft sind.
 
-Da nun gerade St. clypeata v. Hag. als der Typus der Gattung 
-Stichopora angesehen werden muß, wie es auch von Busk * 2 ) 
-geschieht, so stellt diese nichts als Lunuliten ohne gesonderte Vibra- 
-cularzellen dar. Wir folgen derselben Anschauungsweise. 
+Das Gerüste der _Stichoporina Reussi_ ist mehr weniger kreisförmig, am Rande durch die abwechselnd weiter hervortretenden Zellen ausgezackt, auf der Oberseite flach konvex, auf der unteren seicht ausgehöhlt oder auch beinahe eben. Auf der ersteren sieht man im Zentrum eine größere Primordialzelle, um welche sich durch allseitiges Aussprossen ein Kranz gewöhnlich kleinerer Zellen herumlegt, welcher nach außen wieder einer Kreiszone von Zellen ihren Ursprung gibt und so fort, so daß mail ohne Schwierigkeit eine Aufeinanderfolge konzentrischer Kreisreihen nachweisen kann, wobei die Zellen der Nachbarkreise mit einander alterniren und die Zellen nach außen etwas an Größe zunehmen. Durch das Zurückbleiben einzelner Zellen im Wachsthume oder durch Einschieben kleinerer Zellen zwischen die größeren eines Kreises wird jedoch die Regelmäßigkeit der Anordnung beinahe stets mehr weniger gestört.
 
-Wollte man sich auf die bisher erörterten Charactere beschrän¬ 
-ken, welche sich auch bei Stichoporina wiederfinden, so würde 
-man genöthigt sein, diese mit Stichopora unbedingt zu identificiren. 
-Dieser Vorgang würde aber nicht gerechtfertigt erscheinen, da zwi¬ 
-schen beiden Gattungen in anderer Beziehung wesentliche Unter¬ 
-schiede stattfinden und zwar in der Beschaffenheit der Zellen. 
-Während dieselben bei St clypeata Hag. und der hochconischen 
-St. conica d’Orb. aus der Kreide von S. Colombe 3 ), gleichwie 
-bei den Lunulites - und Cupitlaria- Arten, hexagonal, niedergedrückt, 
-von einem gemeinschaftlichen erhabenen Bande umgrenzt sind, fin¬ 
-den wir an den Stichoporinen Cellepora-artige Zellen, in der Mitte 
-der Scheibe senkrecht stehend, am Rande halb liegend, gewölbt, 
-eiförmig oder selbst etwas röhrig, durch tiefe Furchen von einander 
-gesondert, mit terminaler rundlicher Mündung. Darin kömmt Sti¬ 
-ch oporina mit Celleporaria überein, von welcher sie daher nur in 
-der Anordnung der Zellen abweicht. Sie steht daher in demselben 
-Verhältnisse zu Celleporaria, wie die gleich näher zu besprechende 
-Sippe Batopora, bei welcher die Zellen nicht zu einer kreisför¬ 
-migen Scheibe ausgebreitet, sondern zu einer kegelförmigen oder 
-kreiselförmigen Gruppe zusammengehäuft sind. 
+*) Paléont. franç. Terr. cretacées. 5. Taf. 707, Fig. 5-9.
 
-Das Gerüste der Stichoporina Renssi ist mehr weniger kreis¬ 
-förmig, am Rande durch die abwechselnd weiter hervortreteuden 
-Zellen ausgezackt, auf der Oberseite flach convex, auf der unteren 
-seicht ausgehöhlt oder auch beinahe eben. Auf der ersteren sieht 
-man im Centrum eine größere Primordialzelle, um welche sich 
-durch allseitiges Aussprossen ein Kranz gewöhnlich kleinerer Zellen 
-herumlegt, welcher nach außen wieder einer Kreiszone von Zellen 
+*) The Crag Polyzoa pag. 84.
 
-O Paleont. frang. Terr. cretacees. V. Taf. 707, Fig. 5 --- 9. 
+*) Paléont. franç. Terr. cret. 5. Taf. 707, Fig. 10-12; später fälschlich zu _Lunulites_ gezogen und (l. c. pag. 355) als _L. subconica_ d'Orb. beschrieben.
 
-2 ) The Crag Polyzoa pag. 84. 
+Die Vermehrung geschieht durch Sprossenkanäle, deren man zwei an der Außenseite jeder Zelle gegen die Basis hin, je eine jederseits, wahrnimmt. Dieselben münden in die zwei angrenzenden alternirenden Zellen des nächst äußeren Zellenkreises auf ganz analoge Weise, wie wir dies bei _Orbitulites_ unter den Foraminiferen wiederfinden.
 
-3 ) Paleont. frang. Terr. cret. V. Taf. 707, Fig. 10 ---12; später fälschlich zu Lunu¬ 
-lites gezogen und (1. c. pag. 355) als L. subconica d’Orh. beschrieben. 
+Die Zellen sind bläschenartig, mehr weniger eiförmig, an der Basis dicht an einander liegend und durch lateralen Druck polygonal werdend, nach oben frei und auf dem sich etwas verschmälernden Scheitel die große, beinahe runde terminale Mündung tragend. Bisweilen sind jedoch die nach innen gelegenen Zellen sehr niedergedrückt, nur durch schmale Furchen gesondert und bilden dann eine fast in einer Ebene liegende polygonale Täfelung. Besonders ist dies bei den meisten Latdorfer Exemplaren der Fall, während an jenen von Calbe sich das obere Zellenende mehr frei erhebt. Im höchsten Grade findet Letzteres bei den peripherischen Zellen Statt, welche schräg nach außen aufsteigen und ein beinahe kurzröhriges oberes Ende besitzen, das durch die scharfrandige Mündung schief abgestutzt wird. Wo diese wohlerhalten ist, sieht man den äußeren Teil des Mündungsrandes etwas über den inneren vorgezogen.
 
-ihren Ursprung gibt und so fort, so daß mail ohne Schwierigkeit 
-eine Aufeinanderfolge eonecntrischer Kreisreilicn naclnveisen kann, 
-wobei die Zellen der Nachbarkreise mit einander alternircn und die 
-Zellen nach außen etwas an Große zunehmen. Durch das Zurück¬ 
-bleiben einzelner Zellen im Wachsthume oder durch Einschieben 
-kleinerer Zellen zwischen die größeren eines Kreises wird jedoch 
-die Regelmäßigkeit der Anordnung beinahe stets mehr weniger 
-gestört. 
+Die Oberfläche der Zellen erscheint, wo sie nicht abgerieben ist, bei stärkerer Vergrösserung mit feinen Rauhigkeiten regellos bedeckt. An abgeriebenen Stücken nimmt man zerstreute kleine Poren wahr. Sehr vereinzelt findet man dergleichen auch in den Zwischenfurchen der Zellen.
 
-Die Vermehrung geschieht durch Sprossencanäle, deren man 
-zwei an der Außenseite jeder Zelle gegen die Basis hin, je eine 
-jederseits, wahrnimmt. Dieselben münden in die zwei angrenzenden 
-alternirenden Zellen des nächst äußeren Zellenkreises auf ganz ana¬ 
-loge Weise, wie wir dies bei Orbitulites unter den Foraminiferen 
-wiederfinden. 
+Einige andere Erscheinungen beobachtet man an vertikalen Durchschnitten der Zellenkolonie. Vorerst überzeugt man sich, daß die peripherischen Zellen sich nicht nur nach oben etwas verlängern, sondern auch nach unten und innen, wodurch ihre Höhlung röhrig wird und sich gegen die Basis der Scheibe umbiegt.
 
-Die Zellen sind bläschenartig, mehr weniger eiförmig, an der 
-Basis dicht an einander liegend und durch lateralen Druck polygonal 
-werdend, nach oben frei und auf dem sich etwas verschmälernden 
-Scheitel die große, beinahe runde terminale Mündung tragend. Bis¬ 
-weilen sind jedoch die nach innen gelegenen Zellen sehr nieder¬ 
-gedrückt, nur durch schmale Furchen gesondert und bilden dann 
-eine fast in einer Ebene liegende polygonale Täfelung. Besonders ist 
-dies bei den meisten Latdorfer Exemplaren der Fall, während an 
-jenen von Calbe sich das obere Zellenende mehr frei erhebt. Im 
-höchsten Grade findet Letzteres bei den peripherischen Zellen Statt, 
-welche schräg nach außen aufsteigen und ein beinahe kurzröhriges 
-oberes Ende besitzen, das durch die scharfrandige Mündung schief 
-abgestutzt wird. Wo diese wohlerhalten ist, sieht man den äußeren 
-Theil des Mündungsrandes etwas über den inneren vorgezogen. 
+Die in der Mitte der Colonie gelegenen Zellen (nebst der Zentralzelle jene des ersten, zweiten oder selbst einzelne des dritten Ringes) verlängern sich bisweilen durch Proliferiren ebenfalls nach oben, indem sich gleichsam eine zweite Zellenschichte auf die erste legt. Der Vertikalschnitt zeigt dann Zellenröhren, die durch eine Querscheidewand in Etagen geteilt werden, welche durch eine weite Öffnung mit einander kommuniziren.
 
-Die Oberfläche der Zellen erscheint, wo sie nicht abgerieben 
-ist, bei stärkerer Vergrösserung mit feinen Rauhigkeiten regellos 
-bedeckt. An abgeriebenen Stücken nimmt man zerstreute kleine Po¬ 
-ren wahr. Sehr vereinzelt findet man dergleichen auch in den Zwi¬ 
-schenfurchen der Zellen. 
+Die Unterseite der Kolonie ist durch schmale Furchen in kleine, unregelmäßig polygonale ebene Felder zerschnitten, deren jedes einer Zelle entspricht. In den Zwischenfurchen stehen einzelne Poren zerstreut, deren Verbindung mit den Zellenhöhlungen ich aber nicht nachweisen konnte. Sie entsprechen wohl den zahlreichen Poren auf der Unterseite der Lunuliten und Cupularien.
 
-Einige andere Erscheinungen beobachtet man an verticalen 
-Durchschnitten der Zellencolonie. Vorerst überzeugt man sich, daß 
-die peripherischen Zellen sich nicht nur nach oben etwas verlängern, 
-sondern auch nach unten und innen, wodurch ihre Höhlung rölirig 
-wird und sich gegen die Basis der Scheibe umbiegt. 
+An manchen Exemplaren ist, wie schon erwähnt wurde, die Unterseite seicht konkav, an anderen beinahe eben. An letzteren lehrt ein Vertikalschnitt, daß die ursprünglich ebenfalls konkave Fläche durch spätere Kalkablagerung ausgefüllt wurde, die in der Mitte am dicksten ist, gegen die Peripherie hin sich aber allmälig verdünnt. Eben so ist sie an Exemplaren mit konkaver Unterseite dünner, als an jenen, deren untere Fläche eben erscheint. Die Ausfüllungsmasse läßt bei stärkerer Vergrößerung bisweilen deutliche, den Kontouren der Unterseite parallel verlaufende Streifen erkennen, zum Beweise, daß dieselbe successiv und schichtenweise abgelagert worden ist.
 
+## 3. Batopora* Stoliczkai
 
-Die in der Mitte der Colonie gelegenen Zellen (nebst der Cen¬ 
-tralzelle jene des ersten, zweiten oder selbst einzelne des dritten 
-Ringes) verlängern sich bisweilen durch Proliferiren ebenfalls nach 
-oben, indem sich gleichsam eine zweite Zellenschichte auf die erste 
-legt. Der Verticalschnitt zeigt dann Zellenröhren, die durch eine 
-Querscheidewand in Etagen getheilt werden, welche durch eine 
-weite Öffnung mit einander communiciren. 
-
-Die Unterseite der Colonie ist durch schmale Furchen in kleine, 
-unregelmäßig polygonale ebene Felder zerschnitten, deren jedes 
-einer Zelle entspricht. In den Zwischenfurchen stehen einzelne Po¬ 
-ren zerstreut, deren Verbindung mit den Zellenhöhlungen ich aber 
-nicht nachweisen konnte. Sie entsprechen wohl den zahlreichen 
-Poren auf der Unterseite der Lunuliten und Cupularien. 
-
-An manchen Exemplaren ist, wie schon erwähnt wurde, die 
-Unterseite seicht concav, an anderen beinahe eben. An letzteren 
-lehrt ein Verticalschnitt, daß die ursprünglich ebenfalls concave 
-Fläche durch spätere Kalkablagerung ausgefüllt wurde, die in der 
-Mitte am dicksten ist, gegen die Peripherie hin sich aber allmälig 
-verdünnt. Eben so ist sie an Exemplaren mit concaver Unterseite 
-dünner, als an jenen, deren untere Fläche eben erscheint. Die Aus¬ 
-füllungsmasse läßt bei stärkerer Vergrößerung bisweilen deutliche, 
-den Contouren der Unterseite parallel verlaufende Streifen erkennen, 
-zum Beweise, daß dieselbe successiv und schiclitenweise abgelagert 
-worden ist. 
-
-3. Batopora 1 ) Stoliczkai Rss. nov. g. (Taf. 2, Fig. 2---4). 
+Rss. nov. g. (Taf. 2, Fig. 2-4).
 
 Die Gattungen Lepralia, Celleporaria, Eschara und viele 
 andere ßryozoen-Sippen umfassen in Folge der verschiedenen Ge¬ 
@@ -238,7 +102,6 @@ durch Orbigny, zu solchen erhoben worden. Sobald man aber
 zahlreichere Exemplare einer genaueren Untersuchung unterzieht, 
 so wird man bald gewahr, daß die so hervorstechenden Merkmale, 
 welche hauptsächlich zu dieser Ansicht verleitet haben, nicht con- 
-
 
 *) Von to ßciTOv die Brombeere, von der Ähnlichkeit der Gestalt mit einer Brombeere. 
 
@@ -277,7 +140,7 @@ Zellen eine immer weniger geneigte Stellung an; die jüngsten --- un¬
 tersten --- liegen völlig horizontal in einer Ebene. 
 
 Bei manchen Arten ist hiemit das Wachsthum abgeschlossen 
-(z. B. bei B. rosula Rss., B. angustata d’Orb. sp.), bei anderen 
+(z. B. bei B. rosula Rss., B. angustata d'Orb. sp.), bei anderen 
 (bei B. Stoliczkai Rss.) setzt sich die Bildung, wie weiter unten 
 gezeigt werden wird, noch weiter fort. 
 
@@ -294,7 +157,7 @@ tung ohnehin unmöglich. Auf ähnliche Weise verhält sich die Sache
 bei den kugeligen Arten der typischen Celleporarien. 
 
 Am schönsten und regelmäßigsten tritt der Typus der Gruppe 
-Batopora an der von d’Orbigny abgebildeten an der Ile de Ba- 
+Batopora an der von d'Orbigny abgebildeten an der Ile de Ba- 
 silan lebenden Tr. angustata hervor, für welche Orbigny den 
 zwei an der Basis jeder Zelle stehenden Nebenporen zu Liebe die 
 Gattung Conescharellina geschaffen hat *). Die Colonie ist hoch- 
@@ -392,7 +255,7 @@ bigny aufgestellten und beschriebenen Gattung Disteginopora *)
 überein. Im feineren Bau findet jedoch ein sehr wesentlicher Unter¬ 
 schied Statt. Die Orbigny'sche Gattung bietet Structurverhältnisse 
 dar, die man hei keiner anderen Bryozoe wiederfindet, und die noch 
-weiterer Bestätigung zu bedürfen scheinen. Nach Orbigny’s An¬ 
+weiterer Bestätigung zu bedürfen scheinen. Nach Orbigny's An¬ 
 gabe soll sich nämlich über den inneren, ganz nach Art der 
 Escharen gebildeten Theil jederseits eine zweite Etage aufbauen, 
 die äußerlich zwar auch eine Begrenzung einzelner Zellen wahrneh¬ 
@@ -506,7 +369,7 @@ einstimmt.
 keine bestimmte Auskunft geben, da nur wenige Bruchstücke vor- 
 
 
-1 ) d’Orbigny paleontologie fran<?. Terr. cret. V. pag. 358. Taf 70G, Fig“. 5---11. 
+1 ) d'Orbigny paleontologie fran<?. Terr. cret. V. pag. 358. Taf 70G, Fig“. 5---11. 
 
 liegen. Dieselben sind unregelmäßig vierseitig mit mehr weniger 
 abgerundeten äußeren Ecken. Es scheint das innere Ende, von 
