@@ -92,104 +92,28 @@ An manchen Exemplaren ist, wie schon erwähnt wurde, die Unterseite seicht konka
 
 Rss. nov. g. (Taf. 2, Fig. 2-4).
 
-Die Gattungen Lepralia, Celleporaria, Eschara und viele 
-andere ßryozoen-Sippen umfassen in Folge der verschiedenen Ge¬ 
-stalt und Anordnung der Zellen, der Zahl und Art ihrer Nebenporen 
-oder ihrer Abwesenheit u. s. w. so mannigfache und so abweichende 
-Formen, daß man sie oft für Typen selbstständiger Gattungen zu 
-halten geneigt ist. Viele derselben sind auch wirklich, besonders 
-durch Orbigny, zu solchen erhoben worden. Sobald man aber 
-zahlreichere Exemplare einer genaueren Untersuchung unterzieht, 
-so wird man bald gewahr, daß die so hervorstechenden Merkmale, 
-welche hauptsächlich zu dieser Ansicht verleitet haben, nicht con- 
+Die Gattungen _Lepralia, Celleporaria, Eschara_ und viele andere Bryozoen-Sippen umfassen in Folge der verschiedenen Gestalt und Anordnung der Zellen, der Zahl und Art ihrer Nebenporen oder ihrer Abwesenheit u. s. w. so mannigfache und so abweichende Formen, daß man sie oft für Typen selbstständiger Gattungen zu halten geneigt ist. Viele derselben sind auch wirklich, besonders durch Orbigny, zu solchen erhoben worden. Sobald man aber zahlreichere Exemplare einer genaueren Untersuchung unterzieht, so wird man bald gewahr, daß die so hervorstechenden Merkmale, welche hauptsächlich zu dieser Ansicht verleitet haben, nicht konstant sind, vielmehr dem Wechsel unterliegen, oft weniger scharf hervortreten oder auch gänzlich verschwinden. Dadurch werden zahlreiche Übergangsstufen geschaffen, durch welche anscheinend sehr scharf characterisirte Gattungen allmälig in andere verfließen.
 
-*) Von to ßciTOv die Brombeere, von der Ähnlichkeit der Gestalt mit einer Brombeere. 
+*) Von το βατον die Brombeere, von der Ähnlichkeit der Gestalt mit einer Brombeere.
 
-sinnt sind, vielmehr dem Wechsel unterliegen, oft weniger schart 
-liervorlreten oder auch gänzlich verschwinden. Dadurch werden 
-zahlreiche Übergangsstufen geschaffen, durch welche anscheinend 
-sehr scharf charactcrisirte Gattungen allmälig in andere verfließen. 
+Dies gilt auch von einer höchst auffallenden Gruppe von Celleporarien, welche sich durch eine eigentümliche Anordnung der Zellen auszeichnet. Während bei den typischen Celleporarien die bläschenartigen Zellen regellos neben und über einander gehäuft sind, so daß sie unregelmäßige knollige und rindenartige Massen bilden, finden wir in manchen Fällen eine sehr symmetrische Aneinanderlagerung der Zellen, welche zur Entstehung von mehr weniger regelmäßigen Zellenstöcken führt. Zwei dieser Fälle haben wir schon früher in den Gattungen _Orbitulipora_ und _Stichoporina_ kennen gelernt, bei welchen bisher noch keine Übergänge zu den typischen Formen von _Celleporaria_ bekannt geworden sind. Anders verhält es sich bei einer dritten hierher gehörigen Gruppe, der ich den Namen _Batopora_ beilege. Bei derselben sind die Zellen zu einer kleinen mehr weniger regelmäßigen kegel- oder kreiselförmigen Gruppe zusammengestellt. Die Spitze --- den ältesten Teil des Kegels --- nimmt eine einzelne aufrecht stehende Zelle ein. An ihre Basis legen sich dann in radialer Richtung 4-6 andere, unter diese in alternirender Stellung und stets vom Zentrum gegen die Peripherie ausstrahlend wieder andere Zellen, bis endlich durch das wiederholte Anlegen neuer Etagen eine mehr weniger hohe kegel- oder kreiselförmige Kolonie entsteht, an welcher die die Basis bildenden Zellen die jüngsten sind. Dadurch kommen die Zellen in schräge, von der Primordialzelle --- dem Schlußstein des ganzen Gewölbes --- ausgehende radiale Reihen zu stehen, zwischen welche sich im Verlaufe des Wachsthumes, also im unteren Teile der Kolonie immer neue einschieben. Zugleich nehmen die später gebildeten Zellen eine immer weniger geneigte Stellung an; die jüngsten --- untersten --- liegen völlig horizontal in einer Ebene.
 
-Dies gilt auch von einer höchst auffallenden Gruppe von Celle- 
-porarien, welche sich durch eine eigentümliche Anordnung der 
-Zellen auszeichnet. Während bei den typischen Cclleporarien die 
-bläschenartigen Zellen regellos neben und über einander gehäuft 
-sind, so daß sie unregelmäßige knollige und rindenartige Massen 
-bilden, finden wir in manchen Fällen eine sehr symmetrische Anein¬ 
-anderlagerung der Zellen, welche zur Entstehung von mehr weniger 
-regelmäßigen Zellenstöcken führt. Zwei dieser Falle haben wir 
-schon früher in den Gattungen Orbitulipora und Stichoporina ken¬ 
-nen gelernt, bei welchen bisher noch keine Übergänge zu den typi¬ 
-schen Formen von Cclleporaria bekannt geworden sind. Anders 
-verhält es sich hei einer dritten hierher gehörigen Gruppe, der ich 
-den Namen Batopora beilege. Bei derselben sind die Zeilen zu 
-einer kleinen mehr weniger regelmäßigen kegel- oder kreiselförmigen 
-Gruppe zusammengestellt. Die Spitze --- den ältesten Theil des Ke¬ 
-gels --- nimmt eine einzelne aufrecht stehende Zelle ein. An ihre 
-Basis legen sich dann in radialer Richtung 4---6 andere, unter diese 
-in alternirender Stellung und stets vom Centrum gegen die Peri¬ 
-pherie ausstrahlend wieder andere Zellen, bis endlich durch das 
-wiederholte Anlegen neuer Etagen eine mehr weniger hohe kegel- 
-oder kreiselförmige Colonie entsteht, an welcher die die Basis bil¬ 
-denden Zellen die jüngsten sind. Dadurch kommen die Zellen in 
-schräge, von der Primordialzelle --- dem Schlußstein des ganzen 
-Gewölbes --- ausgehende radiale Reihen zu stehen, zwischen welche 
-sich im Verlaufe des Wachsthumes, also im unteren Theile der Co¬ 
-lonie immer neue einschiehen. Zugleich nehmen die später gebildeten 
-Zellen eine immer weniger geneigte Stellung an; die jüngsten --- un¬ 
-tersten --- liegen völlig horizontal in einer Ebene. 
+Bei manchen Arten ist hiemit das Wachsthum abgeschlossen (z. B. bei _B. rosula_ Rss., _B. angustata_ d'Orb. sp.), bei anderen (bei _B. Stoliczkai_ Rss.) setzt sich die Bildung, wie weiter unten gezeigt werden wird, noch weiter fort.
 
-Bei manchen Arten ist hiemit das Wachsthum abgeschlossen 
-(z. B. bei B. rosula Rss., B. angustata d'Orb. sp.), bei anderen 
-(bei B. Stoliczkai Rss.) setzt sich die Bildung, wie weiter unten 
-gezeigt werden wird, noch weiter fort. 
+Jede Zelle steht mit den angrenzenden durch enge, seitlich an der Basis befindliche spaltenförmige Porenkanäle in Verbindung.
 
-Jede Zelle steht mit den angrenzenden durch enge, seitlich an 
-der Basis befindliche spaltenförmige Porencanäle in Verbindung. 
+Die Embryonalzelle war ursprünglich offenbar angewachsen. Bei an ihrer Basis erfolgendem Hervorsprossen neuer Zellen löste sich dieselbe aber von der Unterlage los und blieb nun im weiteren Verlaufe ihrer Existenz frei. Wenigstens läßt sich nirgend eine Spur von Anheftung wahrnehmen. Bei jenen Arten, die sich ringsum mit Zellen bedecken und die Kugelform annehmen, wird eine Anheftung ohnehin unmöglich. Auf ähnliche Weise verhält sich die Sache bei den kugeligen Arten der typischen Celleporarien.
 
-Die Embryonalzelle war ursprünglich offenbar angewaehsen. 
-Bei an ihrer Basis erfolgendem Hervorsprossen neuer Zellen löste sich 
-dieselbe aber von der Unterlage los und blieb nun im weiteren 
-Verlaufe ihrer Existenz frei. Wenigstens läßt sich nirgend eine 
-Spur von Anheftung wahrnehmen. Bei jenen Arten, die sich ringsum 
-mit Zellen bedecken und die Kugelform annehmen, wird eine Anhef¬ 
-tung ohnehin unmöglich. Auf ähnliche Weise verhält sich die Sache 
-bei den kugeligen Arten der typischen Celleporarien. 
+Am schönsten und regelmäßigsten tritt der Typus der Gruppe _Batopora_ an der von d'Orbigny abgebildeten an der Île de Basilan lebenden _Tr. angustata_ hervor, für welche Orbigny den zwei an der Basis jeder Zelle stehenden Nebenporen zu Liebe die Gattung _Conescharellina_ geschaffen hat.* Die Kolonie ist hochkonisch, zuckerhutähnlich; die Zellen stehen sehr regelmäßig in zehn senkrechten Längsreihen, je fünf in einer Ebene liegend und mit jenen der darüber und darunter liegenden Etage alternirend.
 
-Am schönsten und regelmäßigsten tritt der Typus der Gruppe 
-Batopora an der von d'Orbigny abgebildeten an der Ile de Ba- 
-silan lebenden Tr. angustata hervor, für welche Orbigny den 
-zwei an der Basis jeder Zelle stehenden Nebenporen zu Liebe die 
-Gattung Conescharellina geschaffen hat *). Die Colonie ist hoch- 
-conisch, zuckerhutähnlich; die Zellen stehen sehr regelmäßig in 
-zehn senkrechten Längsreihen, je fünf in einer Ebene liegend und 
-mit jenen der darüber und darunter liegenden Etage alternirend. 
+Weniger vollkommen, aber immer noch deutlich genug gibt sich die Symmetrie der _Batopora_ an einer Spezies aus dem miocänen Tegel von Baden bei Wien zu erkennen, welche ich schon vor längerer Zeit unter dem Namen _Cellepora rosula_ beschrieben habe.* Ihr Zellenstock ist niedrig konisch mit oft röhrig verlängerter zentraler Primordialzelle, an deren Basis zunächst 4-5 Tochterzellen hervorsprossen. Die Zellen stehen in 9-10 schrägen und gebogenen, vom Gipfel ausstrahlenden Radialreihen. Die große runde Mündung ist von einem scharfen, an der Basis etwas lippenartig vorgezogenen Rande umgeben. Die Zellen stoßen im Zentrum gewöhnlich nicht ganz zusammen, sondern der Zwischenraum wird durch kleine geschlossene Abortivzellen ausgefüllt. Die jüngsten Zellen liegen vollkommen horizontal. Im Alter platten sich die Zellen am freien Ende ab und der scharfe Mündungsrand verschwindet. Der Scheitel ragt dann in weit geringerem Umfange frei empor. (Tab. 1, Fig. 7; Tab. 2, Fig. 1).
 
-Weniger vollkommen, aber immer noch deutlich genug gibt 
-sich die Symmetrie der Batopora an einer Speeies aus dem miocä- 
-nen Tegel von Baden bei Wien zu erkennen, welche ich schon vor 
-längerer Zeit unter dem Namen Cellepora rosala beschrieben 
-habe 3 ). Ihr Zellenstock ist niedrig conisch mit oft röhrig verlän¬ 
-gerter centraler Primordialzelle, an deren Basis zunächst 4---5 
-Tochterzellen hervorsprossen. Die Zellen stehen in 9---10 schrägen 
-und gebogenen, vom Gipfel ausstrahlenden Radialreihen. Die große 
-runde Mündung ist von einem scharfen, an der Basis etwas lippen¬ 
-artig vorgezogenen Rande umgeben. Die Zellen stoßen im Centrum 
-gewöhnlich nicht ganz zusammen, sondern der Zwischenraum wird 
-durch kleine geschlossene Abortivzellen ausgefüllt. Die jüngsten 
-Zellen liegen vollkommen horizontal. Im Alter platten sich die Zellen 
-am freien Ende ab und der scharfe Mündungsrand verschwindet. 
-Der Scheitel ragt dann in weit geringerem Umfange frei empor. 
-(Tab. 1, Fig. 7; Tab. 2, Fig. 1). 
+*) Paléontol. franç. Terr. cretac. 5. pag. 447, Taf. 774, Fig. 14-16.
 
-Im Unteroligocän von Calbe findet man eine dritte Speeies 
+*) Reuss die foss. Polyp. d. Wiener Tertiärbeckens in den von Haidinger gesamm. naturwiss. Abhandl. Bd. 2., pag. 78. Taf. 9, Fig. 7.
+
+Im Unteroligocän von Calbe findet man eine dritte Spezies 
 ziemlich häufig, welcher ich zu Ehren des Herrn Stoliczka, der 
-
-
-1) Paleontol. frans. Terr. cretac. V. pag. 447, Taf. 774, Fig. 14 --- 16. 
-
-2 ) R e u s s die foss. Polyp, d. Wiener Tertiärbeckens in den von H a i d i/i g er gesarnin, 
-naturwiss. Abhandl. Bd. II, pag. 78. Taf. 9, Fig. 7. 
 
 
 sich um die Keimtniß der Bryozoen von Latdorf verdient gemacht 
