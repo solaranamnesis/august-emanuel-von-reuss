@@ -2,150 +2,45 @@
 
 ## Von dem w. M. Prof. Dr. A. Em. Reuss.
 
-(Mit 3 lithographirten Tafeln.) 
+(Mit 3 lithographirten Tafeln.)
 
-(Vorgelegt in der Sitzung am 17. Jänner 1867.) 
+(Vorgelegt in der Sitzung am 17. Jänner 1867.)
 
-Bei der Untersuchung der Foraminiferen aus den unteroligo- 
-cänen Tertiärschichten Deutschlands hot sich mir die Gelegenheit 
-dar, zugleich eine größere Anzahl der in diesen Schichten vorkom¬ 
-menden Bryozoen zu beobachten. Es war mir dies um so erwünsch¬ 
-ter, als meine Aufmerksamkeit schon durch die Arbeit Stoliczka's 
-über die Bryozoen von Latdorf *) darauf gerichtet worden war. 
-Auch ich fand nicht nur die meisten der von Stoliczka beschrie¬ 
-benen eigentümlichen Formen wieder, sondern entdeckte auch noch 
-mehrere andere, die, durch einen besonderen Bau ausgezeichnet, 
-theils zur Aufstellung neuer generischer Sippen Veranlassung boten, 
-theils bisher nur in der jetzigen Schöpfung bekannt gewesenen, aber 
-noch nicht im fossilen Zustande nachgewiesenen Gattungen ange¬ 
-hören. 
+Bei der Untersuchung der Foraminiferen aus den unteroligocänen Tertiärschichten Deutschlands bot sich mir die Gelegenheit dar, zugleich eine größere Anzahl der in diesen Schichten vorkommenden Bryozoen zu beobachten. Es war mir dies um so erwünschter, als meine Aufmerksamkeit schon durch die Arbeit Stoliczkas über die Bryozoen von Latdorf* darauf gerichtet worden war. Auch ich fand nicht nur die meisten der von Stoliczka beschriebenen eigentümlichen Formen wieder, sondern entdeckte auch noch mehrere andere, die, durch einen besonderen Bau ausgezeichnet, teils zur Aufstellung neuer generischer Sippen Veranlassung boten, teils bisher nur in der jetzigen Schöpfung bekannt gewesenen, aber noch nicht im fossilen Zustande nachgewiesenen Gattungen angehören.
 
-Wenn sie schon in dieser Beziehung zu genauerer Unter¬ 
-suchung aufforderten, so erhielten sie eine noch grössere Bedeutung 
-durch den Umstand, daß sie bisher noch nie in einer der jüngeren 
-Tertiärschichten — oberhalb des Unteroligocans — angetroffen wor¬ 
-den sind und daher einen der hervorstechendsten Züge in der Phy¬ 
-siognomie der unteroligocanen Fauna bilden helfen, — ein um so 
-willkommeneres Ergebniss, als die Foraminiferen, die das Ober¬ 
-und Mitteloligocän so glücklich characterisiren, gerade für die Dia¬ 
-gnose des Unteroligocän nur sehr spärliche Anhaltspunkte darbieten. 
+*) In den Sitzungsber. d. kais. Akad. d. Wissensch. in Wien. Bd. 45, pag. 71 f. f. Taf. 1-3.
 
-Ich glaube daher mich keiner überflüssigen Mühe zu unterzie¬ 
-hen , wenn ich mit Übergehung der übrigen zahlreichen Bryozoen, 
-welche nebst den Foraminiferen an einem anderen Orte behandelt 
+Wenn sie schon in dieser Beziehung zu genauerer Untersuchung aufforderten, so erhielten sie eine noch grössere Bedeutung durch den Umstand, daß sie bisher noch nie in einer der jüngeren Tertiärschichten --- oberhalb des Unteroligocäns --- angetroffen worden sind und daher einen der hervorstechendsten Züge in der Physiognomie der unteroligocänen Fauna bilden helfen, --- ein um so willkommeneres Ergebniss, als die Foraminiferen, die das Ober- und Mitteloligocän so glücklich characterisiren, gerade für die Diagnose des Unteroligocän nur sehr spärliche Anhaltspunkte darbieten.
 
-i ) In den Sitzungsber. d. kais. Akad. d. Wissensch. in Wien. ßd. 43, pag*. 71 f. f. 
-Taf. 1—3. 
+Ich glaube daher mich keiner überflüssigen Mühe zu unterziehen, wenn ich mit Übergehung der übrigen zahlreichen Bryozoen, welche nebst den Foraminiferen an einem anderen Orte behandelt werden sollen, die wenigen für das Unteroligocän so characteristischen Formen hier einer ausführlicheren Besprechung unterziehe. Sie stammen teils aus dem Unteroligocän von Latdorf, teils aus jenem von Calbe an der Saale und von Bünde. Das Materiale von den letztgenannten zwei Fundorten verdanke ich der gefälligen Mitteilung des Herrn v. Könen in Berlin, welcher die eine Viertelstunde östlich vom Doberg bei Bünde aufgefundene Ablagerung zuerst für unteroligocän erklärte.* Die Resultate meiner Untersuchungen über die Foraminiferen und Bryozoen stimmen mit dieser Ansicht vollkommen überein.
 
-werden sollen, die wenigen für das Unteroligocän so characteristischen 
-Formen hier einer ausführlicheren Besprechung unterziehe. Sie 
-stammen theils aus dem Unteroligocän von Latdorf, theils aus jenem 
-von Calbe an der Saale und von Bünde. Das Materiale von den letzt¬ 
-genannten zwei Fundorten verdanke ich der (gefälligen Mittheilung 
-des Herrn v. Konen in Berlin, welcher die eine Viertelstunde öst¬ 
-lich vom Doberg bei Bünde aufgefundene Ablagerung zuerst für 
-unteroligocän erklärte t). Die Resultate meiner Untersuchungen über 
-die Foraminiferen und Bryozoen stimmen mit dieser Ansicht vollkom¬ 
-men überein. 
+Von den hier näher zu beschreibenden Bryozoen gehören drei den Celleporideen, eben so viele den Selenariadeen und endlich eine den Escharideen zu.
 
-Von den hier näher zu beschreibenden Bryozoen gehören drei 
-den Celleporideen, eben so viele den Selenariadeen und endlich eine 
-den Escharideen zu. 
+# _a._ Celleporideae.
 
-a) Celleporiileae. 
+## 1. Orbitulipora petiolus.
 
-1. Orbitulipora petiolus Lonsd. sp. (Taf. 1, Fig. 1, 2). 
+Lonsd. sp. (Taf. 1, Fig. 1, 2).
 
-Cellepora? petiolus Lonsdale in Dixon the geol. and foss. of the tert. and 
-cretac. format. of Sussex. pag. 86, 151. Taf. 1, Fig. 10. — Orbituli¬ 
-pora Haidingeri Stoliczka oligoc. Bryoz. v. Latdorf in d. Sitzungsber. 
-d. kais. Akad. d. Wissensch. Bd. 45, pag. 90, 91. Taf. 3, Fig. 5. 
+_Cellepora? petiolus_ Lonsdale in Dixon the geol. and foss. of the tert. and cretac. format. of Sussex. pag. 86, 151. Taf. 1, Fig. 10. --- _Orbitulipora Haidingeri_ Stoliczka oligoc. Bryoz. v. Latdorf in d. Sitzungsber. d. kais. Akad. d. Wissensch. Bd. 45, pag. 90, 91. Taf. 3, Fig. 5.
 
-Dixon hat unser Fossil zuerst im Londonclay von Bracklesham- 
-Bay aufgefunden, Lonsdale dagegen unter dem Namen Cellepora 
-petiolus beschrieben und abgebildet. Abbildung soavoIiI als Beschrei¬ 
-bung stimmen mit den oligocänen Exemplaren vollkommen überein. 
-Denn die am Rande des Zellenstockes beobachtete grössere cylin- 
-drische Höhlung steht mit der inneren Structur desselben in keinem 
-erklärbaren Avesentlichen Zusammenhänge und kann nur als eine 
-zufällige Erscheinung aufgefasst Averden, die Avohl in der ursprüng¬ 
-lichen Bildung des Fossiles um einen Avalzenförmigen fremden Kör¬ 
-per, der zum Anheftungspunkte diente, seinen Grund haben kann. 
-Der Speciesname „petiolus“ verliert dadurch freilich seine Berech¬ 
-tigung, ich glaubte ihn aber den Prioritätsgesetzen gemäss doch bei¬ 
-behalten zu müssen. 
+Dixon hat unser Fossil zuerst im Londonclay von Bracklesham-Bay aufgefunden, Lonsdale dagegen unter dem Namen _Cellepora petiolus_ beschrieben und abgebildet. Abbildung sowohl als Beschreibung stimmen mit den oligocänen Exemplaren vollkommen überein. Denn die am Rande des Zellenstockes beobachtete grössere cylindrische Höhlung steht mit der inneren Struktur desselben in keinem erklärbaren wesentlichen Zusammenhange und kann nur als eine zufällige Erscheinung aufgefasst werden, die wohl in der ursprünglichen Bildung des Fossiles um einen walzenförmigen fremden Körper, der zum Anheftungspunkte diente, seinen Grund haben kann. Der Speziesname "_petiolus_" verliert dadurch freilich seine Berechtigung, ich glaubte ihn aber den Prioritätsgesetzen gemäss doch beibehalten zu müssen.
 
+*) In der übersendeten Probe des Unteroligocäns von Bünde beobachtete ich von Bryozoen: _Eschara varians_ Rss.?, _E. coscinophora_ Rss., _E. Grotriani_ Rss., _E. concatenata_ n. sp., _Eschara_ sp., _Biflustra clathrata_ Phil. sp., _Polyeschara confusa_ nov. g. et sp., _Orbitulipora petiolus_ Lonsd. sp., _Crisia Edwardsi_ Rss., _Entalophora anomala_ Rss., _Spiropora rariabilis_ v. M. sp., _Hornera subannulata_ Phil., _Hornera_ sp. sp., _Idmonea_ sp., _Crisina_ sp. sp.
 
-*) In der übersendeten Probe des Unteroligocäns von Bünde beobachtete ich von 
-Bryozoen: Eschara varians Rss.? p , E. coscinophora Rss., E. Grotriani Rss., 
-E. concatenata n. sp., Eschara sp,, Biflustra clathrata Phil, sp., Polyeschara 
-confusa nov. g. et sp., Orbitulipora petiolus Lonsd. sp., Crisia Edwardsi Rss., 
-Entalophora anomala Rss.. Spiropora rariabilis v. M. sp., Hornera subannulata 
-Phil. , Hornera sp. sp. , Idmonca sp. , Crisina sp. sp. 
+Lonsdale erkannte die enge Verwandtschaft des Fossiles mit _Cellepora (Celleporaria)_, ohne daß ihm aber deßhalb die Eigentümlichkeiten des Baues entgangen wären. Daher vereinigte er es auch nur mit Zögern und vorläufig mit _Cellepora_.
 
-Lonsdale erkannte die enge Verwandtschaft des Fossiles mit 
-Ccllcpora (Ccllcporaria), ohne daß ihm aber deßhalb die Eigen- 
-tliümlichkeiten des Baues entgangen wären. Daher vereinigte er es 
-auch nur mit Zögern und vorläufig mit Ccllcpora. 
+Auch Stoliczka, der die Spezies im Unteroligocän von Latdorf entdeckte, betonte die vorerwähnte Beziehung dadurch, daß er dieselbe in seiner Beschreibung der Latdorfer Bryozoen unmittelbar auf _Cellepora globularis_ Br. folgen liess. Der abweichende Bau bewog ihn aber, dieselbe mit Recht zum Typus einer selbstständigen Gattung zu erheben. Die freilich nur äusserliche grosse Ähnlichkeit mit _Orbitulites_ (_Amphisorus_ Ehr.) deutet er überdieß durch den Namen an, welchen er der neuen Gattung beilegte.
 
-Auch Stoliczka, der die Species im Unteroligocän von Lat- 
-dorf entdeckte, betonte die vorerwähnte Beziehung dadurch, daß er 
-dieselbe in seiner Beschreibung der Latdorfer Bryozoen unmittelbar 
-auf Ccllcpora globularis Br. folgen Hess. Der abweichende Bau 
-bewog ihn aber, dieselbe mit Recht zum Typus einer selbstständigen 
-Gattung zu erheben. Die freilich nur äusserliche grosse Ähnlichkeit 
-mit Orbitulites (.Amphisorus Ehr.) deutet er überdieß durch den 
-Namen an, welchen er der neuen Gattung beilegte. 
+Ich habe dieselbe Spezies später im Unteroligocän von Calbe und, wiewohl spärlich, in jenem von Bünde gefunden. Auffallend ist es, daß F. A. Römer in seiner Beschreibung der Polyparien des norddeutschen Tertiärgebirges dieser, im Unteroligocän so verbreiteten und in die jüngeren Schichten nicht aufsteigenden Bryozoe gar keine Erwähnung tut.
 
-Ich habe dieselbe Species später im Unteroligocän von Calbe 
-und, wiewohl spärlich, in jenem von Bünde gefunden. Auffallend ist 
-es, daß F. A. Römer in seiner Beschreibung der Polyparien des 
-norddeutschen Tertiärgebirges dieser, im Unteroligocän so verbreite¬ 
-ten und in die jüngeren Schichten nicht aufsteigenden Bryozoe gar 
-keine Erwähnung thut. 
+Dieselbe bildet in der Regel beinahe kreisrunde Scheiben, die bisweilen einen Durchmesser von 4 Millim. erreichen und bei beträchtlicherer Grösse in der Mitte sehr seicht vertieft zu sein pflegen. An kleineren Exemplaren sind die Ober- und Unterseite vollkommen eben.
 
-Dieselbe bildet in der Regel beinahe kreisrunde Scheiben , die 
-bis M eilen einen Durchmesser von 4 Millim. erreichen und bei 
-beträchtlicherer Grösse in der Mitte sehr seicht vertieft zu sein pfle¬ 
-gen. An kleineren Exemplaren sind die Ober- und Unterseite voll¬ 
-kommen eben. 
+Die Scheibe besteht aus zwei Zellenschichten, die, ohne mit einander zu kommuniziren, mit dem Rücken an einander liegend, fest verbunden sind. Im Zentrum jeder Schichte erkennt man deutlich eine Embryonalzelle, die durch Aussprossen nach allen Seiten hin neuen Zellen den Ursprung gegeben hat, so daß sie von einem Kreise jüngerer Zellen umgeben wird. Aus diesem ist durch fortgesetztes Aussprossen ein neuer Zellenkreis hervorgegangen und auf diese Weise haben sich bisweilen 5-6 konzentrische Kreise um einander gebildet. Die Zellen zweier Nachbarkreise alterniren regelmässig mit einander, so dass jede Zelle mit den sie umgebenden vier Zellen der beiden benachbarten Kreise durch Sprossenkanäle in Verbindung steht. Man beobachtet daher auch auf jeder Randzelle zwei Poren, jederseits eine, --- die Mündungen der beiden äußeren zentrifugalen Sprossenkanäle. Daß in dieser stets nachweisbaren Anordnung der Zellen durch gehinderte Entwickelung oder selbst Abortiren einzelner Zellen manche Störungen hervorgebracht wurden und dadurch Veranlassung zu manchen unsymmetrischen Bildungen geboten werden mußte, braucht nicht erst erwähnt zu werden.
 
-Die Scheibe besteht aus ZM r ei Zellenschichten, die, ohne mit 
-einander zu communiciren, mit dem Rücken an einander liegend, 
-fest verbunden sind. Im Centrum jeder Schichte erkennt man deut¬ 
-lich eine Embryonalzelle, die durch Aussprossen nach allen Seiten 
-hin neuen Zellen den Ursprung gegeben hat, so daß*sie von einem 
-Kreise jüngerer Zellen umgeben wird. Aus diesem ist durch fortge¬ 
-setztes Aussprossen ein neuer Zellenkreis hervorgegangen und auf 
-diese Weise haben sich bisweilen 5—6 concentrische Kreise um 
-einander gebildet. Die Zellen zweier Nachbarkreise alterniren regel¬ 
-mässig mit einander, so dass jede Zelle mit den sie umgebenden 
-vier Zellen der beiden benachbarten Kreise durch Sprossencanäle in 
-Verbindung steht. Man beobachtet daher auch auf jeder Randzelle 
-ZM r ei Poren, jederseits eine, — die Mündungen der beiden äußeren 
-centrifugalen Sprossencanäle. Daß in dieser stets naclnveisbaren An¬ 
-ordnung der Zellen durch gehinderte Entwickelung oder selbst 
+Die Embryonalzelle und die sie zunächst umgebenden Zellen sind die kleinsten. Gegen die Peripherie der Scheibe hin nehmen sie allmälig etwas an Größe zu. Durch seitlichen Druck der Nebenzellen werden sie eckig und sind durch mehr weniger tiefe Furchen geschieden. Die älteren Zellen sind am oberen Ende beinahe abgeflacht. Die jüngeren wölben sich allmälig stärker, die dem Rande zunächst gelegenen verlängern sich bisweilen zur kurzen Röhrenform und neigen sich zugleich etwas schräg nach außen, während die übrigen senkrecht stehen.
 
-
-Abortiren einzelner Zellen manche Störungen hervorgebracht wurden 
-und dadurch Veranlassung zu manchen unsymmetrischen Bildungen 
-geboten werden mußte, braucht nicht erst erwähnt zu werden. 
-
-Die Embryonalzelle und die sie zunächst umgebenden Zellen 
-sind die kleinsten. Gegen die Peripherie der Scheibe hin nehmen sie 
-allmälig etwas an Größe zu. Durch seitlichen Druck der Nebenzellen 
-werden sie eckig und sind durch mehr weniger tiefe Furchen 
-geschieden. Die älteren Zellen sind am oberen Ende beinahe abge¬ 
-flacht. Die jüngeren wölben sich allmälig stärker, die dem Rande 
-zunächst gelegenen verlängern sich bisweilen zur kurzen Röhrenform 
-und neigen sich zugleich etwas schräg nach außen, während die 
-übrigen senkrecht stehen. 
-
-Beide Zellenschichten sind nicht, wie bei Eschara , durch eine 
-undurchbohrte Mittelplatte von einander geschieden. Auch bemerkt 
-man an einem Querbruche der Scheibe, daß die Grenzfläche der 
-beiden Zellenschichten nicht eben ist, sondern daß die Zellen der 
-einen in die Vertiefungen der anderen eingreifen. 
+Beide Zellenschichten sind nicht, wie bei _Eschara_, durch eine undurchbohrte Mittelplatte von einander geschieden. Auch bemerkt man an einem Querbruche der Scheibe, daß die Grenzfläche der beiden Zellenschichten nicht eben ist, sondern daß die Zellen der einen in die Vertiefungen der anderen eingreifen.
 
 Die Mündung der meisten Zellen ist groß, beinahe rund; bei 
 den verlängerten peripherischen Zellen dehnt sie sich jedoch etwas 
@@ -165,7 +60,7 @@ terlassen, deren Boden durch die Zellenwand gebildet wird. Es sind
 dies die blasigen Nebenzellen, welche S toliczka erwähnt. Schon 
 L o n s d a 1 e hat ihre Bestimmung richtig gedeutet. 
 
-2. Stickoporina Rcussi Stol. (Tal. 1, Fig. 3—5). 
+2. Stickoporina Rcussi Stol. (Tal. 1, Fig. 3---5). 
 
 Stoliczka 1. c. pag. 92, 93. Taf. 3 y Fig. 6. 
 
@@ -181,7 +76,7 @@ Formen nur deßhalb von Stichopora (clypeata) v. Hag. geson¬
 dert, weil llagenow in seiner Cliaracteristik dieser Gattung beson¬ 
 ders das Vorhandensein von Neben- und Spaltzellen, so wie das 
 Wachsthum der Zellen in regelmäßigen Reihen nur nach einer 
-bestimmten Richtung hin betont, — Merkmale, die sich an dem Lat¬ 
+bestimmten Richtung hin betont, --- Merkmale, die sich an dem Lat¬ 
 dorfer Fossile auf keine Weise erkennen lassen. Die Hageno wa¬ 
 sche Diagnose paßt aber selbst auf St. clypeata v. Hag. keineswegs, 
 denn wir finden weder in der Reschreibung, noch in der Abbildung, 
@@ -207,7 +102,7 @@ allen Seiten hin neue Zellen aussprossen und sich in mehr weniger
 deutlich nachweisbaren Kreis- und Radialreihen an einander legen. 
 
 
-1) v. [Tagen ow die Bryozoen von Maastricht pag. 100, Taf. 12 , Fig. 14. 
+1) v. [Tagen ow die Bryozoen von Maastricht pag. 100, Taf. 12, Fig. 14. 
 
 2 ) Leonhard’s u. Bronn’s Jahrb. 1839. pag. 280. Taf. 5, Fig. 3. 
 
@@ -240,8 +135,8 @@ eiförmig oder selbst etwas röhrig, durch tiefe Furchen von einander
 gesondert, mit terminaler rundlicher Mündung. Darin kömmt Sti¬ 
 ch oporina mit Celleporaria überein, von welcher sie daher nur in 
 der Anordnung der Zellen abweicht. Sie steht daher in demselben 
-Verhältnisse zu Celleporaria , wie die gleich näher zu besprechende 
-Sippe Batopora , bei welcher die Zellen nicht zu einer kreisför¬ 
+Verhältnisse zu Celleporaria, wie die gleich näher zu besprechende 
+Sippe Batopora, bei welcher die Zellen nicht zu einer kreisför¬ 
 migen Scheibe ausgebreitet, sondern zu einer kegelförmigen oder 
 kreiselförmigen Gruppe zusammengehäuft sind. 
 
@@ -249,15 +144,15 @@ Das Gerüste der Stichoporina Renssi ist mehr weniger kreis¬
 förmig, am Rande durch die abwechselnd weiter hervortreteuden 
 Zellen ausgezackt, auf der Oberseite flach convex, auf der unteren 
 seicht ausgehöhlt oder auch beinahe eben. Auf der ersteren sieht 
-man im Centrum eine größere Primordialzelle , um welche sich 
+man im Centrum eine größere Primordialzelle, um welche sich 
 durch allseitiges Aussprossen ein Kranz gewöhnlich kleinerer Zellen 
 herumlegt, welcher nach außen wieder einer Kreiszone von Zellen 
 
-O Paleont. frang. Terr. cretacees. V. Taf. 707, Fig. 5 — 9. 
+O Paleont. frang. Terr. cretacees. V. Taf. 707, Fig. 5 --- 9. 
 
 2 ) The Crag Polyzoa pag. 84. 
 
-3 ) Paleont. frang. Terr. cret. V. Taf. 707, Fig. 10 —12; später fälschlich zu Lunu¬ 
+3 ) Paleont. frang. Terr. cret. V. Taf. 707, Fig. 10 ---12; später fälschlich zu Lunu¬ 
 lites gezogen und (1. c. pag. 355) als L. subconica d’Orh. beschrieben. 
 
 ihren Ursprung gibt und so fort, so daß mail ohne Schwierigkeit 
@@ -331,9 +226,9 @@ den Contouren der Unterseite parallel verlaufende Streifen erkennen,
 zum Beweise, daß dieselbe successiv und schiclitenweise abgelagert 
 worden ist. 
 
-3. Batopora 1 ) Stoliczkai Rss. nov. g. (Taf. 2, Fig. 2—4). 
+3. Batopora 1 ) Stoliczkai Rss. nov. g. (Taf. 2, Fig. 2---4). 
 
-Die Gattungen Lepralia , Celleporaria , Eschara und viele 
+Die Gattungen Lepralia, Celleporaria, Eschara und viele 
 andere ßryozoen-Sippen umfassen in Folge der verschiedenen Ge¬ 
 stalt und Anordnung der Zellen, der Zahl und Art ihrer Nebenporen 
 oder ihrer Abwesenheit u. s. w. so mannigfache und so abweichende 
@@ -366,20 +261,20 @@ schen Formen von Cclleporaria bekannt geworden sind. Anders
 verhält es sich hei einer dritten hierher gehörigen Gruppe, der ich 
 den Namen Batopora beilege. Bei derselben sind die Zeilen zu 
 einer kleinen mehr weniger regelmäßigen kegel- oder kreiselförmigen 
-Gruppe zusammengestellt. Die Spitze — den ältesten Theil des Ke¬ 
-gels — nimmt eine einzelne aufrecht stehende Zelle ein. An ihre 
-Basis legen sich dann in radialer Richtung 4—6 andere, unter diese 
+Gruppe zusammengestellt. Die Spitze --- den ältesten Theil des Ke¬ 
+gels --- nimmt eine einzelne aufrecht stehende Zelle ein. An ihre 
+Basis legen sich dann in radialer Richtung 4---6 andere, unter diese 
 in alternirender Stellung und stets vom Centrum gegen die Peri¬ 
 pherie ausstrahlend wieder andere Zellen, bis endlich durch das 
 wiederholte Anlegen neuer Etagen eine mehr weniger hohe kegel- 
 oder kreiselförmige Colonie entsteht, an welcher die die Basis bil¬ 
 denden Zellen die jüngsten sind. Dadurch kommen die Zellen in 
-schräge, von der Primordialzelle — dem Schlußstein des ganzen 
-Gewölbes — ausgehende radiale Reihen zu stehen, zwischen welche 
+schräge, von der Primordialzelle --- dem Schlußstein des ganzen 
+Gewölbes --- ausgehende radiale Reihen zu stehen, zwischen welche 
 sich im Verlaufe des Wachsthumes, also im unteren Theile der Co¬ 
 lonie immer neue einschiehen. Zugleich nehmen die später gebildeten 
-Zellen eine immer weniger geneigte Stellung an; die jüngsten — un¬ 
-tersten — liegen völlig horizontal in einer Ebene. 
+Zellen eine immer weniger geneigte Stellung an; die jüngsten --- un¬ 
+tersten --- liegen völlig horizontal in einer Ebene. 
 
 Bei manchen Arten ist hiemit das Wachsthum abgeschlossen 
 (z. B. bei B. rosula Rss., B. angustata d’Orb. sp.), bei anderen 
@@ -412,8 +307,8 @@ sich die Symmetrie der Batopora an einer Speeies aus dem miocä-
 nen Tegel von Baden bei Wien zu erkennen, welche ich schon vor 
 längerer Zeit unter dem Namen Cellepora rosala beschrieben 
 habe 3 ). Ihr Zellenstock ist niedrig conisch mit oft röhrig verlän¬ 
-gerter centraler Primordialzelle, an deren Basis zunächst 4—5 
-Tochterzellen hervorsprossen. Die Zellen stehen in 9—10 schrägen 
+gerter centraler Primordialzelle, an deren Basis zunächst 4---5 
+Tochterzellen hervorsprossen. Die Zellen stehen in 9---10 schrägen 
 und gebogenen, vom Gipfel ausstrahlenden Radialreihen. Die große 
 runde Mündung ist von einem scharfen, an der Basis etwas lippen¬ 
 artig vorgezogenen Rande umgeben. Die Zellen stoßen im Centrum 
@@ -428,7 +323,7 @@ Im Unteroligocän von Calbe findet man eine dritte Speeies
 ziemlich häufig, welcher ich zu Ehren des Herrn Stoliczka, der 
 
 
-1) Paleontol. frans. Terr. cretac. V. pag. 447, Taf. 774, Fig. 14 — 16. 
+1) Paleontol. frans. Terr. cretac. V. pag. 447, Taf. 774, Fig. 14 --- 16. 
 
 2 ) R e u s s die foss. Polyp, d. Wiener Tertiärbeckens in den von H a i d i/i g er gesarnin, 
 naturwiss. Abhandl. Bd. II, pag. 78. Taf. 9, Fig. 7. 
@@ -468,7 +363,7 @@ pora ganz analoge Anordnung der Zellen.
 
 b) Escharicleae. 
 
-4. Polyeschara confusa Rss. n. gen. et sp. (Taf. 3, Fig. 1—4). 
+4. Polyeschara confusa Rss. n. gen. et sp. (Taf. 3, Fig. 1---4). 
 
 In der mir von Herrn v. Könen mitgetheilten Probe der von 
 ihm bei Bünde zuerst aufgefundenen und dem Unteroligocän angehö- 
@@ -517,7 +412,7 @@ senkrechter Richtung über einander liegen. In diesem Falle bildet
 die gewöhnlich verdickte Vorderwand der unteren Zellen die Ilinter- 
 
 
-A ) Paleontol. fran<?. Terr. cretac. V. pag. 497. Taf. 734, Fig. 9—11. 
+A ) Paleontol. fran<?. Terr. cretac. V. pag. 497. Taf. 734, Fig. 9---11. 
 Sitzb. <3. mathem.-naturw. CI. LV. Bd. I. Abth. 16 
 
 
@@ -556,7 +451,7 @@ Die unteroligocäne Species bildet gabelförmig-ästige Stämm-
 chen mit breiten zusammengedrückten Zweigen, die, in der Mitte am 
 dicksten, gegen die abgerundet-winkeligen Ränder hin sich etwas 
 verdünnen. Der größte Theil derselben besteht, wie der Querschnitt 
-lehrt, auf jeder Seite aus zwei Zellenschichten , deren Zwischen¬ 
+lehrt, auf jeder Seite aus zwei Zellenschichten, deren Zwischen¬ 
 wände an den älteren Stammtheilen sehr verdickt erscheinen, an den 
 jüngeren dagegen die Medianplatte an Dicke nicht übertreffen. An 
 
@@ -611,7 +506,7 @@ einstimmt.
 keine bestimmte Auskunft geben, da nur wenige Bruchstücke vor- 
 
 
-1 ) d’Orbigny paleontologie fran<?. Terr. cret. V. pag. 358. Taf 70G, Fig“. 5—11. 
+1 ) d’Orbigny paleontologie fran<?. Terr. cret. V. pag. 358. Taf 70G, Fig“. 5---11. 
 
 liegen. Dieselben sind unregelmäßig vierseitig mit mehr weniger 
 abgerundeten äußeren Ecken. Es scheint das innere Ende, von 
@@ -659,7 +554,7 @@ C. Oiceni Busk 2 ) beobachtet.
 *) Catal. of marine polyzoa of the brit. raus. pag. 98, Taf. 114. 
 2 ) L. c. pag. 99, Taf. 115. 
 
-6. Diplotaxis placentula Rss. n. gen. et sp. (Taf. 2, Fig. 5 — 7). 
+6. Diplotaxis placentula Rss. n. gen. et sp. (Taf. 2, Fig. 5 --- 7). 
 
 Das Fossil, welches ich ebenfalls im Unteroligocän von Calbe 
 entdeckte, bildet eine kreisrunde oder sehr breit-elliptische Scheibe 
@@ -670,7 +565,7 @@ ausmündenden Zellen besetzt.
 
 Auf der Oberseite erblickt man zuerst in der Mitte eine rund¬ 
 liche, beinahe in ihrer ganzen Weite geöffnete Zelle, um welche sich 
-4—o andere gruppiren. Aus diesen sprießen nach außen wieder 
+4---o andere gruppiren. Aus diesen sprießen nach außen wieder 
 neue Zellen in vermehrter Anzahl hervor und so fort bis zum periphe¬ 
 rischen Rande der ganzen Colonie. Die Zellen zeigen im Allgemeinen 
 eine symmetrische Anordnung, indem sie stark gebogene vom Cen¬ 
@@ -733,7 +628,7 @@ zum Behufe der Communication mit den nächstangrenzenden Zellen.
 
 7. Luniilitcs Latdorfensis Stol. 
 
-Stoliczka 1. e. pag. 93. Taf. 3, Fig. 7. — Lunulites hemisphaericus F. 
+Stoliczka 1. e. pag. 93. Taf. 3, Fig. 7. --- Lunulites hemisphaericus F. 
 A. Römer die Polyp, des norddeutsch. Tertiärgeb. 1863. pag. 18, 
 Taf. 2, Fig. 27. 
 
@@ -747,8 +642,8 @@ nie völlig ausgefüllt wird, sondern immer noch etwas concav bleibt.
 Die senkrechten Zellenprismen lösen sich ziemlich leicht von einander 
 
 ab und auf den Trennungsflächen treten die queren Anwachslinien, 
-auf welche ich zuerst bei Z. lüptpocrepis F. A. R ö m. — Z. andro - 
-saces (Mich.) Rss. — von Crefeld aufmerksam machte *), in aus¬ 
+auf welche ich zuerst bei Z. lüptpocrepis F. A. R ö m. --- Z. andro - 
+saces (Mich.) Rss. --- von Crefeld aufmerksam machte *), in aus¬ 
 gezeichneter Deutlichkeit und Zierlichkeit hervor. Man überzeugt 
 sich hier zugleich mit völliger Restimmtheit, daß man es nur mit 
 einer feinen Anwachsstreifung zu thun hat, keineswegs aber mit 
