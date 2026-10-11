@@ -2,7 +2,7 @@
 
 Public Domain Works by August Emanuel von Reuss (1811-1873).
 
-## Über einige Bryozoen aus dem deutschen Unteroligocän
+## Über einige Bryozoen aus dem deutschen Unteroligozän
  
 English - Plain Text  
 English - PDF  
