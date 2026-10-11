@@ -8,27 +8,27 @@
 
 ---
 
-# _a._ [Celleporideae.]()
+# _a._ [Celleporideae.](#a-celleporideae-1)
 
-## 1. [Orbitulipora petiolus.]()
+## 1. [Orbitulipora petiolus.](#1-orbitulipora-petiolus-1)
 
-## 2. [Stichoporina Reussi.]()
+## 2. [Stichoporina Reussi.](#2-stichoporina-reussi-1)
 
-## 3. [Batopora Stoliczkai.]()
+## 3. [Batopora Stoliczkai.](#3-batopora-stoliczkai-1)
 
-# _b._ [Escharideae.]()
+# _b._ [Escharideae.](#b-escharideae-1)
 
-## 4. [Polyeschara confusa.]()
+## 4. [Polyeschara confusa.](#4-polyeschara-confusa-1)
 
-# _c._ [Selenariadeae.]()
+# _c._ [Selenariadeae.](#c-selenariadeae-1)
 
-## 5. [Pavolunulites Buski.]()
+## 5. [Pavolunulites Buski.](#5-pavolunulites-buski-1)
 
-## 6. [Diplotaxis placentula.]()
+## 6. [Diplotaxis placentula.](#6-diplotaxis-placentula-1)
 
-## 7. [Lunulites Latdorfensis.]()
+## 7. [Lunulites Latdorfensis.](#7-lunulites-latdorfensis-1)
 
-# [Erklärung der Abbildungen.]()
+# [Erklärung der Abbildungen.](#erklärung-der-abbildungen-1)
 
 ---
 
