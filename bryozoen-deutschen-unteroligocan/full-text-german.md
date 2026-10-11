@@ -170,199 +170,87 @@ Die flache Rückenseite der Kolonie wird von seichten und schmalen unregelmäßi
 
 Auf dem Querbruche beobachtet man, daß die einzelnen Zellen mit jeder nach außen gelegenen jüngeren Nachbarzelle durch einen ziemlich weiten Sprossenkanal zusammenhängt.
 
-Die Species hat große Ähnlichkeit mit Hemiesclicira (Semie - 
-sclutra d'Orb.) und ich würde sie damit vereinigt haben, wenn nicht 
-die ganze Beschaffenheit der Colonie darauf hinwiese, daß sie nicht 
-angeheftet, sondern frei war und wenn nicht die Ovarialzellen gänz¬ 
-lich mangelten. Unregelmäßige Formen kehren auch bei anderen 
-Selenariadeen wieder und der Mangel an Poren auf der Unterseite 
-der Colonie wird auch bei Cupularia guineensis Busk i) und bei 
-C. Oiceni Busk 2 ) beobachtet. 
+Die Spezies hat große Ähnlichkeit mit _Hemieschara_ (_Semieschara_ d'Orb.) und ich würde sie damit vereinigt haben, wenn nicht die ganze Beschaffenheit der Kolonie darauf hinwiese, daß sie nicht angeheftet, sondern frei war und wenn nicht die Ovarialzellen gänzlich mangelten. Unregelmäßige Formen kehren auch bei anderen Selenariadeen wieder und der Mangel an Poren auf der Unterseite der Kolonie wird auch bei _Cupularia guineensis_ Busk* und bei _C. Oweni_ Busk* beobachtet.
 
+*) Catal. of marine polyzoa of the brit. mus. pag. 98, Taf. 114.
 
-*) Catal. of marine polyzoa of the brit. raus. pag. 98, Taf. 114. 
-2 ) L. c. pag. 99, Taf. 115. 
+*) L. c. pag. 99, Taf. 115.
 
-6. Diplotaxis placentula Rss. n. gen. et sp. (Taf. 2, Fig. 5 --- 7). 
+## 6. Diplotaxis placentula
 
-Das Fossil, welches ich ebenfalls im Unteroligocän von Calbe 
-entdeckte, bildet eine kreisrunde oder sehr breit-elliptische Scheibe 
-mit winkeligem Rande, deren Oberseite sehr wenig und gleichmäßig 
-convex, die untere dagegen eben oder selbst etwas eingedrückt ist. 
-Im Gegensätze mit den übrigen Selenariadeen sind beide Flächen mit 
-ausmündenden Zellen besetzt. 
+Rss. n. gen. et sp. (Taf. 2, Fig. 5-7).
 
-Auf der Oberseite erblickt man zuerst in der Mitte eine rund¬ 
-liche, beinahe in ihrer ganzen Weite geöffnete Zelle, um welche sich 
-4---o andere gruppiren. Aus diesen sprießen nach außen wieder 
-neue Zellen in vermehrter Anzahl hervor und so fort bis zum periphe¬ 
-rischen Rande der ganzen Colonie. Die Zellen zeigen im Allgemeinen 
-eine symmetrische Anordnung, indem sie stark gebogene vom Cen¬ 
-trum auslaufende Spiralreihen bilden, zwischen welche sich nach 
-außen kürzere einschieben. Die Zellen sind flach, von eiförmigem, 
-dem Vierseitigen sich nähernden Umriß, werden aber oft unregel¬ 
-mäßig und wechseln auch in der Größe beträchtlich. Den größeren 
-Tlieil ihrer oberen Fläche nimmt die große, in radialer Richtung 
-verlängerte, elliptische oder verzerrte Mündung ein, welche von einem 
-in der Breite sehr ungleichen, gegen die Mündung hin abschüssigen 
-Rande umgeben wird. Am schmälsten ist derselbe in seinem dem 
-Außenrande der Colonie zugewendeten Tlieile. 
+Das Fossil, welches ich ebenfalls im Unteroligocän von Calbe entdeckte, bildet eine kreisrunde oder sehr breit-elliptische Scheibe mit winkeligem Rande, deren Oberseite sehr wenig und gleichmäßig konvex, die untere dagegen eben oder selbst etwas eingedrückt ist. Im Gegensatze mit den übrigen Selenariadeen sind beide Flächen mit ausmündenden Zellen besetzt.
 
-Neben jeder Zelle nach außen liegt eine viel kleinere rundliche, 
-eiförmige oder etwas vierseitige Yibracularzelle, die im größten Theile 
-ihrer Fläche von der rundlichen Mündung durchbrochen erscheint, 
-so daß nur ein schmaler Rand übrig bleibt. 
+Auf der Oberseite erblickt man zuerst in der Mitte eine rundliche, beinahe in ihrer ganzen Weite geöffnete Zelle, um welche sich 4-5 andere gruppiren. Aus diesen sprießen nach außen wieder neue Zellen in vermehrter Anzahl hervor und so fort bis zum peripherischen Rande der ganzen Kolonie. Die Zellen zeigen im Allgemeinen eine symmetrische Anordnung, indem sie stark gebogene vom Zentrum auslaufende Spiralreihen bilden, zwischen welche sich nach außen kürzere einschieben. Die Zellen sind flach, von eiförmigem, dem Vierseitigen sich nähernden Umriß, werden aber oft unregelmäßig und wechseln auch in der Größe beträchtlich. Den größeren Teil ihrer oberen Fläche nimmt die große, in radialer Richtung verlängerte, elliptische oder verzerrte Mündung ein, welche von einem in der Breite sehr ungleichen, gegen die Mündung hin abschüssigen Rande umgeben wird. Am schmälsten ist derselbe in seinem dem Außenrande der Kolonie zugewendeten Teile.
 
-Die Zellen beider Arten werden durch schmale aber tiefe 
-Furchen von einander geschieden. Die Oberfläche der Zellenwandun¬ 
-gen erscheint sehr fein und regellos gekörnt. 
+Neben jeder Zelle nach außen liegt eine viel kleinere rundliche, eiförmige oder etwas vierseitige Vibracularzelle, die im größten Teile ihrer Fläche von der rundlichen Mündung durchbrochen erscheint, so daß nur ein schmaler Rand übrig bleibt.
 
-Von sehr abweichender Beschaffenheit sind die die flache Unter¬ 
-seite der Colonie einnehmenden Zellen. Vor Allem sind sie viel größer 
-und weniger zahlreich und richten sich mit ihrer Längsaxe gerade nach 
-außen und zwar so, daß die inneren mit den nach außen gelegenen 
-alterniren. Ihr Umriß ist gewöhnlich eiförmig, nach innen gerundet, 
-nach außen verschmälert und mit dem keilförmig zugesehnittenen 
-Ende sich zwischen die zwei nächstäußeren Zellen einschiebend. Am 
-vorderen Theile der Zelle sitzt die elliptische Mündung, der übrige 
+Die Zellen beider Arten werden durch schmale aber tiefe Furchen von einander geschieden. Die Oberfläche der Zellenwandungen erscheint sehr fein und regellos gekörnt.
 
-Theil der Zellenwandung ist flach. Einzelne Zellen ermangeln jeder 
-Öffnung. Zwischen die beschriebenen größeren Zellen sind hin und 
-wieder kleinere, meist unregelmäßig gestaltete und bisweilen eben¬ 
-falls geschlossene Zellen eingeschoben. Nur stellenweise findet man 
-Zellen von der Größe und Form der Vibracularzellen der Oberseite, 
-nur daß ihre Mündung gewöhnlich viel kleiner oder selbst ganz 
-obliterirt ist. Nur zunächst dem Rande der scheibenförmigen Colo- 
-nie fehlt niemals eine Kreisreihe solcher Zellen, von denen je eine 
-regelmässig zwischen die äusseren Enden zweier größerer Zellen 
-eingeschaltet ist. 
+Von sehr abweichender Beschaffenheit sind die die flache Unterseite der Kolonie einnehmenden Zellen. Vor Allem sind sie viel größer und weniger zahlreich und richten sich mit ihrer Längsaxe gerade nach außen und zwar so, daß die inneren mit den nach außen gelegenen alterniren. Ihr Umriß ist gewöhnlich eiförmig, nach innen gerundet, nach außen verschmälert und mit dem keilförmig zugeschnittenen Ende sich zwischen die zwei nächstäußeren Zellen einschiebend. Am vorderen Teile der Zelle sitzt die elliptische Mündung, der übrige Teil der Zellenwandung ist flach. Einzelne Zellen ermangeln jeder Öffnung. Zwischen die beschriebenen größeren Zellen sind hin und wieder kleinere, meist unregelmäßig gestaltete und bisweilen ebenfalls geschlossene Zellen eingeschoben. Nur stellenweise findet man Zellen von der Größe und Form der Vibrakularzellen der Oberseite, nur daß ihre Mündung gewöhnlich viel kleiner oder selbst ganz obliterirt ist. Nur zunächst dem Rande der scheibenförmigen Kolonie fehlt niemals eine Kreisreihe solcher Zellen, von denen je eine regelmässig zwischen die äusseren Enden zweier größerer Zellen eingeschaltet ist.
 
-Auch die Zellen der Unterseite lassen bei stärkerer Vergröße¬ 
-rung die gedrängte zarte Körnung der Oberfläche wahrnehmen. 
+Auch die Zellen der Unterseite lassen bei stärkerer Vergrößerung die gedrängte zarte Körnung der Oberfläche wahrnehmen.
 
-Schon bei Anwendung mäßigen Druckes trennt sich die Colonie 
-in ihre einzelnen Zellen. Man überzeugt sich dabei, daß die Zellen 
-der Oberseite eine zusammengedrückt und unregelmäßig pyramidale 
-Gestalt besetzen und desto länger werden, je näher sie dem Schei¬ 
-benrande liegen. Auf der Oberseite der Scheibe tritt nur die kleine 
-schräg abgeschnittene die Mündung tragende Basalfläche der Pyra¬ 
-miden hervor, der übrige etwas gekrümmte Theil derselben wird von 
-den anderen Zellen verdeckt. Je weiter die Zellen nach innen liegen, 
-desto kürzer wird die Pyramide und desto steiler erhebt sie sich; je 
-näher die Zelle dem Rande liegt, desto mehr verlängert sich der 
-spitze dem Centrum zugewendete Theil und desto mehr nähert ihre 
-Lage sich der horizontalen. Jede Zelle zeigt nicht weit hinter dem 
-Mündungstheile auf der Ober- und Unterseite eine ziemlich große Pore 
-zum Behufe der Communication mit den nächstangrenzenden Zellen. 
+Schon bei Anwendung mäßigen Druckes trennt sich die Kolonie in ihre einzelnen Zellen. Man überzeugt sich dabei, daß die Zellen der Oberseite eine zusammengedrückt und unregelmäßig pyramidale Gestalt besetzen und desto länger werden, je näher sie dem Scheibenrande liegen. Auf der Oberseite der Scheibe tritt nur die kleine schräg abgeschnittene die Mündung tragende Basalfläche der Pyramiden hervor, der übrige etwas gekrümmte Teil derselben wird von den anderen Zellen verdeckt. Je weiter die Zellen nach innen liegen, desto kürzer wird die Pyramide und desto steiler erhebt sie sich; je näher die Zelle dem Rande liegt, desto mehr verlängert sich der spitze dem Zentrum zugewendete Teil und desto mehr nähert ihre Lage sich der horizontalen. Jede Zelle zeigt nicht weit hinter dem Mündungsteile auf der Ober- und Unterseite eine ziemlich große Pore zum Behufe der Kommunication mit den nächstangrenzenden Zellen.
 
-7. Luniilitcs Latdorfensis Stol. 
+## 7. Lunulites Latdorfensis
 
-Stoliczka 1. e. pag. 93. Taf. 3, Fig. 7. --- Lunulites hemisphaericus F. 
-A. Römer die Polyp, des norddeutsch. Tertiärgeb. 1863. pag. 18, 
-Taf. 2, Fig. 27. 
+Stol.
 
-Diese Species, welche von Stoliczka zuerst aus dem Unter- 
-oligocän von Latdorf beschrieben wurde, kömmt auch in den Schich¬ 
-ten gleichen Alters von Bünde, wenngleich selten, vor und fehlt auch 
-bei Westeregeln nicht. Sie begleitet beinahe überall die L. subplena 
-Rss. Auch nähert sie sich derselben durch die starke consecutive 
-Verdickung der Zellenschichte auf der Unterseite, wenn auch diese 
-nie völlig ausgefüllt wird, sondern immer noch etwas concav bleibt. 
-Die senkrechten Zellenprismen lösen sich ziemlich leicht von einander 
+Stoliczka l. c. pag. 93. Taf. 3, Fig. 7. --- _Lunulites hemisphaericus_ F. A. Römer die Polyp. des norddeutsch. Tertiärgeb. 1863. pag. 18, 
+Taf. 2, Fig. 27.
 
-ab und auf den Trennungsflächen treten die queren Anwachslinien, 
-auf welche ich zuerst bei Z. lüptpocrepis F. A. R ö m. --- Z. andro - 
-saces (Mich.) Rss. --- von Crefeld aufmerksam machte *), in aus¬ 
-gezeichneter Deutlichkeit und Zierlichkeit hervor. Man überzeugt 
-sich hier zugleich mit völliger Restimmtheit, daß man es nur mit 
-einer feinen Anwachsstreifung zu thun hat, keineswegs aber mit 
-einem complicirten Canalsvsteme, wofür Stoliczka diese Streifung 
-zu halten geneigt ist. Die microscopisehe Untersuchung läßt darüber 
-keinen Zweifel aufkommen. 
+Diese Spezies, welche von Stoliczka zuerst aus dem Unteroligocän von Latdorf beschrieben wurde, kömmt auch in den Schichten gleichen Alters von Bünde, wenngleich selten, vor und fehlt auch bei Westeregeln nicht. Sie begleitet beinahe überall die _L. subplena_ Rss. Auch nähert sie sich derselben durch die starke konsecutive Verdickung der Zellenschichte auf der Unterseite, wenn auch diese nie völlig ausgefüllt wird, sondern immer noch etwas konkav bleibt. Die senkrechten Zellenprismen lösen sich ziemlich leicht von einander ab und auf den Trennungsflächen treten die queren Anwachslinien, auf welche ich zuerst bei _L. hippocrepis_ F. A. Röm. --- _L. androsaces_ (Mich.) Rss. --- von Crefeld aufmerksam machte,* in ausgezeichneter Deutlichkeit und Zierlichkeit hervor. Man überzeugt sich hier zugleich mit völliger Bestimmtheit, daß man es nur mit einer feinen Anwachsstreifung zu tun hat, keineswegs aber mit einem komplizirten Kanalsysteme, wofür Stoliczka diese Streifung zu halten geneigt ist. Die mikroskopische Untersuchung läßt darüber keinen Zweifel aufkommen.
 
-Die verhältnißmäßig breiten und unregelmäßigen kaum gewölb¬ 
-ten Zwischenfelder der radialen Furchen auf der Unterseite des Zel¬ 
-lenstockes tragen sehr entfernt und regellos stehende Poren, bald 
-nur eine, bald zwei Reihen bildend. Damit fällt eines der wichtigsten 
-Unterscheidungsmerkmale hinweg, welche F. A. Römer für seine 
-Z. hemisphaerica anführt. Überhaupt kann an der Identität derselben 
-mit der schon früher von Stoliczka aufgestellten Species nicht 
-gezweifelt werden. 
+Die verhältnißmäßig breiten und unregelmäßigen kaum gewölbten Zwischenfelder der radialen Furchen auf der Unterseite des Zellenstockes tragen sehr entfernt und regellos stehende Poren, bald nur eine, bald zwei Reihen bildend. Damit fällt eines der wichtigsten Unterscheidungsmerkmale hinweg, welche F. A. Römer für seine _L. hemisphaerica_ anführt. Überhaupt kann an der Identität derselben mit der schon früher von Stoliczka aufgestellten Spezies nicht gezweifelt werden.
 
-Eine auffallende Erscheinung ist das schon von Stoliczka her¬ 
-vorgehobene constante Vorhandensein einer ziemlich großen deutli¬ 
-chen Anheftungsstelle auf dem Scheitel der kegelförmigen Colonie, 
-welche man an anderen Lunuliten vermißt. Im Gegentheile findet 
-man an diesen nur bisweilen in der Mitte der concaven Fläche eine 
-Spur von Anheftung. Mitunter sitzt dort ein einzelnes Sandkorn oder 
-ein kleines Fragment einer Conchilienschale, auf welchem sich offen¬ 
-bar die Embryonalzelle des Lunuliten fixirt hatte. Die anwachsende 
-Colonie löste sich später von ihrer Unterlage los und dann beobach¬ 
-tet man keine Spur der früheren Anheftung mehr. 
+Eine auffallende Erscheinung ist das schon von Stoliczka hervorgehobene konstante Vorhandensein einer ziemlich großen deutlichen Anheftungsstelle auf dem Scheitel der kegelförmigen Kolonie, welche man an anderen Lunuliten vermißt. Im Gegenteile findet man an diesen nur bisweilen in der Mitte der konkaven Fläche eine Spur von Anheftung. Mitunter sitzt dort ein einzelnes Sandkorn oder ein kleines Fragment einer Konchilienschale, auf welchem sich offenbar die Embryonalzelle des Lunuliten fixirt hatte. Die anwachsende Kolonie löste sich später von ihrer Unterlage los und dann beobachtet man keine Spur der früheren Anheftung mehr.
 
-In seltenen Fällen bleibt die ursprüngliche Unterlage an der 
-Colonie haften. Interessant war mir in dieser Reziehung ein zer¬ 
-brochenes Exemplar von Z. subplena Rss. von Calbe, in dessen Innerem 
-ich, näher der Ober- als der Unterseite, ein kleines schwarzgraues, 
-abgerundetes Steingerölle wahrnahm. Ohne Zweifel bildete es 
-Anfangs die Rasis des entstehenden Lunuliten und wurde in der 
-Folge durch die successive Ablagerung der Ausfüllungsschichten 
-überdeckt und von der Substanz der anwachsenden Colonie um¬ 
-schlossen. 
+In seltenen Fällen bleibt die ursprüngliche Unterlage an der Kolonie haften. Interessant war mir in dieser Beziehung ein zerbrochenes Exemplar von _L. subplena_ Rss. von Calbe, in dessen Innerem ich, näher der Ober- als der Unterseite, ein kleines schwarzgraues, abgerundetes Steingerölle wahrnahm. Ohne Zweifel bildete es Anfangs die Basis des entstehenden Lunuliten und wurde in der Folge durch die successive Ablagerung der Ausfüllungsschichten überdeckt und von der Substanz der anwachsenden Kolonie umschlossen.
 
-II euss. l'ber einige ßryozoeu aus dem deutschen Unteroligocän. 
+*) Reuss in d. Sitzungsber. d. kais. Akad. d. Wissensch. Bd. 18, pag. 262.
 
+---
 
-Erklärung der Abbildungen. 
+# Erklärung der Abbildungen.
 
+## Tafel 1.
 
-Tafel I. 
+Fig. 1. _Orbitulipora petiolus_ Lonsd. sp. aus dem Unteroligocän von Calbe. _a_ in natürlicher Größe, _b_ eine Fläche, _c_ der Seitenrand vergrößert.
 
-Fig. i. Orbitulipora petiolus Lonsd. sp. aus dem Unteroligocän von Calbe. 
-a in natürlicher Größe, b eine Fläche, c der Seitenrand vergrößert. 
+Fig. 2. Dieselbe. Ein Randsegment mit Ovizellarien vergrößert.
 
-„ 2. Dieselbe. Ein Randsegment mit Ovicellarien vergrößert. 
+Fig. 3. _Stichoporina Reussi_ Stol. aus dem Unteroligocän von Calbe. Vergrößerte Oberseite eines älteren Exemplares.
 
-„ 3. Stichoporina Reussi Stol. aus dem Unteroligocän von Calbe. Ver¬ 
-größerte Oberseite eines älteren Exemplares. 
+Fig. 4. Dieselbe. Vergrößerte Unterseite.
 
-„ 4. Dieselbe. Vergrößerte Unterseite. 
+Fig. 3. Dieselbe. Vergrößerte Oberseite eines jüngeren Exemplares.
 
-„ 3. Dieselbe. Vergrößerte Oberseite eines jüngeren Exemplares. 
+Fig. 6. _Pavolunulites Buski_ Rss. aus dem Unteroligocän von Calbe. _a_ Obere, _b_ untere Fläche, beide vergrößert.
 
-,, 6. Pavolumdites Baski Rss. aus dem Unteroligocän von Calbe. a Obere, 
-b untere Fläche, beide vergrößert. 
+Fig. 7. _Batopora rosula_ Rss. aus dem miocänen Tegel von Baden. _a_ Obere, _b_ untere, _c_ seitliche Ansicht, sämtlich vergrößert.
 
-„ 7. Batopora ros?da Rss. aus dem miocänen Tegel von Baden, a Obere, 
-b untere, c seitliche Ansicht, sämtlich vergrößert. 
+## Tafel 2.
 
-Tafel II. 
+Fig. 1. _Batopora rosula_ Rss. aus dem miocänen Tegel von Baden. _a_ Obere, _b_ untere, _c_ seitliche Ansicht, sämtlich vergrößert.
 
-Fig. 1. Batopora rosula Rss. aus dem miocänen Tegel von Baden, a Obere, 
-b untere, c seitliche Ansicht, sämtlich vergrößert. 
+Fig. 2. _Batopora Stoliczkai_ Rss. aus dem Unteroligocän von Bünde. _a_ Obere, _b_ seitliche Ansicht, beide vergrößert.
 
-„ 2. Batopora Stoliczkai Rss. aus dem Unteroligocän von Bünde, a Obere, 
-b seitliche Ansicht, beide vergrößert. 
+Fig. 3, 4. Dieselbe. Vergrößerte untere Ansicht.
 
-„ 3, 4. Dieselbe. Vergrößerte untere Ansicht. 
+Fig. 5. _Diplotaxis placentula_ Rss. aus dem Unteroligocän von Calbe. _a_ Vergrößerte obere, _b_ untere, _c_ seitliche Ansicht.
 
-„ 5. Diplotaxis placentula Rss. aus dem Unteroligocän von Calbe. a Ver¬ 
-größerte obere, b untere, c seitliche Ansicht. 
+Fig. 6. Dieselbe. Vergrößerte untere Ansicht eines anderen Exemplares.
 
-„ 6. Dieselbe. Vergrößerte untere Ansicht eines anderen Exemplares. 
+Fig. 7. Dieselbe. Vergrößerte Ansicht einer isolirten Zelle.
 
-„ 7. Dieselbe. Vergrößerte Ansicht einer isolirten Zelle. 
+Tafel 3.
 
-Tafel III. 
+Fig. 1. _Polyeschara confusa_ Rss. _a_ Bruchstück in natürlicher Größe. _b_ Ein Stück der Oberfläche mit unregelmäßigen Zellen vergrößert. _c_ Vergrößerter Querschnitt eines jüngeren Zweiges.
 
-Fig. 1. Polyeschara confusa Rss. a Bruchstück in natürlicher Größe, b Ein 
-Stück der Oberfläche mit unregelmäßigen Zellen vergrößert, c Ver¬ 
-größerter Querschnitt eines jüngeren Zweiges. 
+Fig. 2. Ein Stück der Oberfläche mit regelmäßigeren Zellen vergrößert.
 
-„ 2. Ein Stück der Oberfläche mit regelmäßigeren Zellen vergrößert. 
+Fig. 3. Vergrößerter Querschnitt eines älteren Zweiges mit drei Zellenschichten auf jeder Seite.
 
-„ 3. Vergrößerter Querschnitt eines älteren Zweiges mit drei Zellenschich¬ 
-ten auf jeder Seite. 
-
-„ 4. Vergrößertes Stück der Oberfläche eines Zweiges, an welchem nach 
-Zerstörung der oberen Zellenschichte die tiefere sichtbar geworden ist. 
+Fig. 4. Vergrößertes Stück der Oberfläche eines Zweiges, an welchem nach Zerstörung der oberen Zellenschichte die tiefere sichtbar geworden ist.
