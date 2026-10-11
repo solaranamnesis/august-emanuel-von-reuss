@@ -1,4 +1,4 @@
-# Über einige Bryozoen aus dem deutschen Unteroligocän.
+# Über einige Bryozoen aus dem deutschen Unteroligozän.
 
 English - Plain Text  
 English - PDF  
