@@ -6,6 +6,32 @@
 
 (Vorgelegt in der Sitzung am 17. Jänner 1867.)
 
+---
+
+# _a._ [Celleporideae.]()
+
+## 1. [Orbitulipora petiolus.]()
+
+## 2. [Stichoporina Reussi.]()
+
+## 3. [Batopora Stoliczkai.]()
+
+# _b._ [Escharideae.]()
+
+## 4. [Polyeschara confusa.]()
+
+# _c._ [Selenariadeae.]()
+
+## 5. [Pavolunulites Buski.]()
+
+## 6. [Diplotaxis placentula.]()
+
+## 7. [Lunulites Latdorfensis.]()
+
+# [Erklärung der Abbildungen.]()
+
+---
+
 Bei der Untersuchung der Foraminiferen aus den unteroligozänen Tertiärschichten Deutschlands bot sich mir die Gelegenheit dar, zugleich eine größere Anzahl der in diesen Schichten vorkommenden Bryozoen zu beobachten. Es war mir dies umso erwünschter, als meine Aufmerksamkeit schon durch die Arbeit Stoliczkas über die Bryozoen von Latdorf* darauf gerichtet worden war. Auch ich fand nicht nur die meisten der von Stoliczka beschriebenen eigentümlichen Formen wieder, sondern entdeckte auch noch mehrere andere, die, durch einen besonderen Bau ausgezeichnet, teils zur Aufstellung neuer generischer Sippen Veranlassung boten, teils bisher nur in der jetzigen Schöpfung bekannt gewesenen, aber noch nicht im fossilen Zustande nachgewiesenen Gattungen angehören.
 
 *) In den Sitzungsber. d. kais. Akad. d. Wissensch. in Wien. Bd. 45, pag. 71 f. f. Taf. 1-3.
@@ -46,7 +72,7 @@ Die Mündung der meisten Zellen ist groß, beinahe rund; bei den verlängerten p
 
 An den peripherischen Zellen und zwar auf ihrer zentripetalen Seite beobachtet man mitunter halbkugelige Ovizellarien mit ebenfalls gekörnter Oberfläche, die, von oben angesehen, den innersten Teil der Mündung verdecken. Oft findet man ihre Oberwand durchgebrochen, und dann haben sie eine große rundliche Höhlung hinterlassen, deren Boden durch die Zellenwand gebildet wird. Es sind dies die blasigen Nebenzellen, welche Stoliczka erwähnt. Schon Lonsdale hat ihre Bestimmung richtig gedeutet.
 
-## 2. Stichoporina Reussi
+## 2. Stichoporina Reussi.
 
 Stol. (Tal. 1, Fig. 3-5).
 
@@ -88,7 +114,7 @@ Die Unterseite der Kolonie ist durch schmale Furchen in kleine, unregelmäßig p
 
 An manchen Exemplaren ist, wie schon erwähnt wurde, die Unterseite seicht konkav, an anderen beinahe eben. An letzteren lehrt ein Vertikalschnitt, dass die ursprünglich ebenfalls konkave Fläche durch spätere Kalkablagerung ausgefüllt wurde, die in der Mitte am dicksten ist, gegen die Peripherie hin sich aber allmählich verdünnt. Ebenso ist sie an Exemplaren mit konkaver Unterseite dünner, als an jenen, deren untere Fläche eben erscheint. Die Ausfüllungsmasse lässt bei stärkerer Vergrößerung bisweilen deutliche, den Konturen der Unterseite parallel verlaufende Streifen erkennen, zum Beweise, dass dieselbe successiv und schichtenweise abgelagert worden ist.
 
-## 3. Batopora* Stoliczkai
+## 3. Batopora* Stoliczkai.
 
 Rss. nov. g. (Taf. 2, Fig. 2-4).
 
@@ -152,7 +178,7 @@ Die Spezies ist im Unteroligozän von Bünde nicht selten.
 
 # _c._ Selenariadeae.
 
-## 5. Pavolunulites Buski
+## 5. Pavolunulites Buski.
 
 Rss. n. sp. (Taf. 1, Fig. 6).
 
@@ -176,7 +202,7 @@ Die Spezies hat große Ähnlichkeit mit _Hemieschara_ (_Semieschara_ d'Orb.) und
 
 *) L. c. pag. 99, Taf. 115.
 
-## 6. Diplotaxis placentula
+## 6. Diplotaxis placentula.
 
 Rss. n. gen. et sp. (Taf. 2, Fig. 5-7).
 
@@ -194,7 +220,7 @@ Auch die Zellen der Unterseite lassen bei stärkerer Vergrößerung die gedräng
 
 Schon bei Anwendung mäßigen Druckes trennt sich die Kolonie in ihre einzelnen Zellen. Man überzeugt sich dabei, dass die Zellen der Oberseite eine zusammengedrückte und unregelmäßig pyramidale Gestalt besetzen und desto länger werden, je näher sie dem Scheibenrande liegen. Auf der Oberseite der Scheibe tritt nur die kleine schräg abgeschnittene die Mündung tragende Basalfläche der Pyramiden hervor, der übrige etwas gekrümmte Teil derselben wird von den anderen Zellen verdeckt. Je weiter die Zellen nach innen liegen, desto kürzer wird die Pyramide und desto steiler erhebt sie sich; je näher die Zelle dem Rande liegt, desto mehr verlängert sich der spitze dem Zentrum zugewendete Teil und desto mehr nähert ihre Lage sich der Horizontalen. Jede Zelle zeigt nicht weit hinter dem Mündungsteile auf der Ober- und Unterseite eine ziemlich große Pore zum Behufe der Kommunikation mit den nächstangrenzenden Zellen.
 
-## 7. Lunulites Latdorfensis
+## 7. Lunulites Latdorfensis.
 
 Stol.
 
@@ -245,7 +271,7 @@ Fig. 6. Dieselbe. Vergrößerte untere Ansicht eines anderen Exemplares.
 
 Fig. 7. Dieselbe. Vergrößerte Ansicht einer isolierten Zelle.
 
-[Tafel 3.](https://cdn.solaranamnesis.com/VonReuss/bryozoen-deutschen-unteroligocan/Reuss-Tafel-3.png)
+## [Tafel 3.](https://cdn.solaranamnesis.com/VonReuss/bryozoen-deutschen-unteroligocan/Reuss-Tafel-3.png)
 
 Fig. 1. _Polyeschara confusa_ Rss. _a_ Bruchstück in natürlicher Größe. _b_ Ein Stück der Oberfläche mit unregelmäßigen Zellen vergrößert. _c_ Vergrößerter Querschnitt eines jüngeren Zweiges.
 
