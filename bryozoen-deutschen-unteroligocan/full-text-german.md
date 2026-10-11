@@ -215,7 +215,7 @@ In seltenen Fällen bleibt die ursprüngliche Unterlage an der Kolonie haften. I
 
 # Erklärung der Abbildungen.
 
-## Tafel 1.
+## [Tafel 1.](https://cdn.solaranamnesis.com/VonReuss/bryozoen-deutschen-unteroligocan/Reuss-Tafel-1.png)
 
 Fig. 1. _Orbitulipora petiolus_ Lonsd. sp. aus dem Unteroligozän von Calbe. _a_ in natürlicher Größe, _b_ eine Fläche, _c_ der Seitenrand vergrößert.
 
@@ -231,7 +231,7 @@ Fig. 6. _Pavolunulites Buski_ Rss. aus dem Unteroligozän von Calbe. _a_ Obere, 
 
 Fig. 7. _Batopora rosula_ Rss. aus dem miozänen Tegel von Baden. _a_ Obere, _b_ untere, _c_ seitliche Ansicht, sämtlich vergrößert.
 
-## Tafel 2.
+## [Tafel 2.](https://cdn.solaranamnesis.com/VonReuss/bryozoen-deutschen-unteroligocan/Reuss-Tafel-2.png)
 
 Fig. 1. _Batopora rosula_ Rss. aus dem miozänen Tegel von Baden. _a_ Obere, _b_ untere, _c_ seitliche Ansicht, sämtlich vergrößert.
 
@@ -245,7 +245,7 @@ Fig. 6. Dieselbe. Vergrößerte untere Ansicht eines anderen Exemplares.
 
 Fig. 7. Dieselbe. Vergrößerte Ansicht einer isolierten Zelle.
 
-Tafel 3.
+[Tafel 3.](https://cdn.solaranamnesis.com/VonReuss/bryozoen-deutschen-unteroligocan/Reuss-Tafel-3.png)
 
 Fig. 1. _Polyeschara confusa_ Rss. _a_ Bruchstück in natürlicher Größe. _b_ Ein Stück der Oberfläche mit unregelmäßigen Zellen vergrößert. _c_ Vergrößerter Querschnitt eines jüngeren Zweiges.
 
