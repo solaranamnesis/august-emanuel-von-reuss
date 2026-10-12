@@ -190,8 +190,7 @@ Schon bei Anwendung mäßigen Druckes trennt sich die Kolonie in ihre einzelnen 
 
 Stol.
 
-Stoliczka l. c. pag. 93. Taf. 3, Fig. 7. --- _Lunulites hemisphaericus_ F. A. Römer die Polyp. des norddeutsch. Tertiärgeb. 1863. pag. 18, 
-Taf. 2, Fig. 27.
+Stoliczka l. c. pag. 93. Taf. 3, Fig. 7. --- _Lunulites hemisphaericus_ F. A. Römer die Polyp. des norddeutsch. Tertiärgeb. 1863. pag. 18, Taf. 2, Fig. 27.
 
 Diese Spezies, welche von Stoliczka zuerst aus dem Unteroligozän von Latdorf beschrieben wurde, kommt auch in den Schichten gleichen Alters von Bünde, wenngleich selten, vor und fehlt auch bei Westeregeln nicht. Sie begleitet beinahe überall die _L. subplena_ Rss. Auch nähert sie sich derselben durch die starke konsekutive Verdickung der Zellenschicht auf der Unterseite, wenn auch diese nie völlig ausgefüllt wird, sondern immer noch etwas konkav bleibt. Die senkrechten Zellenprismen lösen sich ziemlich leicht voneinander ab und auf den Trennungsflächen treten die queren Anwachslinien, auf welche ich zuerst bei _L. hippocrepis_ F. A. Röm. --- _L. androsaces_ (Mich.) Rss. --- von Crefeld aufmerksam machte,[^18] in ausgezeichneter Deutlichkeit und Zierlichkeit hervor. Man überzeugt sich hier zugleich mit völliger Bestimmtheit, dass man es nur mit einer feinen Anwachsstreifung zu tun hat, keineswegs aber mit einem komplizierten Kanalsystem, wofür Stoliczka diese Streifung zu halten geneigt ist. Die mikroskopische Untersuchung lässt darüber keinen Zweifel aufkommen.
 
